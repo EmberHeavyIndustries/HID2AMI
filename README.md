@@ -92,7 +92,7 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [Reference Board: TOP](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151759_full.jpg "Reference Board: TOP")
 
-[Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full "Reference Board: BOTTOM")
+[Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full.jpg "Reference Board: BOTTOM")
 
 *tbd: detailed assembling and flashing instructions will be linked here*
 
