@@ -71,6 +71,7 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
  - Put the board in HID2AMI-DFU mode and upload the APP
+ - Put the board in RUN mode
  - Plug in and enjoy !
  
 #### DIY KIT
@@ -79,6 +80,7 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
  - Put the board in HID2AMI-DFU mode and upload the APP
+ - Put the board in RUN mode
  - Plug in and enjoy !
   
 #### PREASSEMBLED BOARD
