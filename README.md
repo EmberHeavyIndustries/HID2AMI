@@ -11,6 +11,10 @@ If you like this project and want to contribute to its further development, plea
 (*) At the moment it has been tested with most Logitech Wingman, Thrustmaster series Gamepads and PS3/PC Gamepad clones. Xbox Gamepad support have to be considered in future releases (Xbox pads does not strictly comply to HID protocol). Working for any and every existing Gamepad cannot be guaranteed, but if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
 
 
+
+![Image of HID2AMI-01](https://github.com/EmberHeavyIndustries/HID2AMI/Pics/HID2AMI.v1.0.0-1-600.jpg)
+
+
 ## **HOW DOES IT WORK** (in brief):
 
 HID2AMI recognizes and manages any HID device connected to its USB interface; if the device is recognized as an HID mouse, then HID2AMI starts understanding live movements and button pressings of the peripheral, then converting both of them into proper quadrature waveforms (and Amiga mouse button pressings) which can be properly understood by the Amiga itself, as if a quadrature "Amiga" mouse was connected.
