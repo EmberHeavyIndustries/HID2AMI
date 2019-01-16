@@ -113,7 +113,7 @@ is distribuited by request from the author; each instance is strictly tied 1:1 t
 
 
 
-## **Warranty Disclaimer and Limitation of Liability
+## **Warranty Disclaimer and Limitation of Liability**
 
 HID2AMI is an hobbyist project without any commercial intention; you understand that we cannot and do not guarantee or warrant neither the HID2AMI hardware (including but not limited to: schematics, gerbers, pcb, components, assembling, etc.) nor the HID2AMI software (bootloader, app, etc) from defects, breakage or loss of functionality. You are using HID2AMI under your exclusive risk and responsibility; please understand and AGREE that **WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY EITHER ANY USE OR ANY MISUSE OF HID2AMI**
 
