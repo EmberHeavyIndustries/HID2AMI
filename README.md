@@ -58,7 +58,7 @@ Features of fw v1.5.2:
 
 ## **DEVELOPMENT**
 
-HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf of **EmberHEavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
+HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf of **EmberHeavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
 
 
 ## **ASSEMBLY**
