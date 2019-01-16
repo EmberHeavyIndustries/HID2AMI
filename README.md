@@ -1,5 +1,6 @@
 # HID2AMI 
-If you like this project and want to contribute to its further development, please consider donate 1$ or 1EU (paypal friends & family, please).
+If you like this project and want to contribute to its further development, please consider donate 1$ or 1EU (or more, if you wish ;paypal friends & family, please). Donors will be added to the "firmware beta release" channel, and will receive all intermediate beta releases of firmware updates, between major "official" releases. Donors will also be allowed to request new features and improvements (subjet to author's discretion)
+
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/EmberHeavyIndustries)
 
@@ -12,9 +13,9 @@ If you like this project and want to contribute to its further development, plea
 
 
 
-![Image of HID2AMI-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-1-480.jpg)
+![Image of HID2AMI-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-1-300.jpg)
 
-![Image of HID2AMI-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-2-480.jpg)
+![Image of HID2AMI-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-2-300.jpg)
 
 ## **HOW DOES IT WORK** (in brief):
 
