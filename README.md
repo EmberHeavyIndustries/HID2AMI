@@ -23,18 +23,23 @@ There is no need to manually configure the emulation mode: device recognition an
 
 **PROJECT STATUS**
 
-  **HW AND SCHEMATICS**
+ **HW AND SCHEMATICS**
   
-   **HID2AMI LITE    hw v1.0.0**
+|   Flavour      | Current ver.  |                Features               |
+| -------------- | ------------- | ------------------------------------- |
+| HID2AMI LITE   |    v1.0.0     |   direct output to Amiga port lines   |
+| HID2AMI DeLuxe |    v1.0.0     |   output lines driven by mosfet       |
   
-   **HID2AMI DeLuxe  hw v1.0.0**
  
   *(Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
 
   **FIRMWARE**
   
-   **HID2AMI BOOTLOADER fw v1.2.0**
-   **HID2AMI APP        fw v1.5.2**
+|      Baseline        | Current ver.  |                Features              |
+| -------------------- | ------------- | -------------------------------------|
+| HID2AMI BOOTLOADER   |    v1.2.0     |   Enables DFU upgrade of APP         |
+| HID2AMI APP          |    v1.5.2     |   see notes below                    |
+  
 
    Features of fw v1.5.2: 
     - Unified firmware, self configuring according to board variant (Lite or DeLuxe);
@@ -47,30 +52,35 @@ There is no need to manually configure the emulation mode: device recognition an
     - Easy firmware upgrade through (windows) PC USB interface;
 
 
-**DEVELOPMENT
+**DEVELOPMENT**
 
-HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf os **EmberHEavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
+HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf of **EmberHEavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
 
 
-**ASSEMBLY
+**ASSEMBLY**
+
+**LICENSE**
 
 **Schematics and pcb gerbers** of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
 This means that you are free to:
 
-  **Share** — copy and redistribute the material in any medium or format
-    
-  **Adapt** — remix, transform, and build upon the material 
-    
+|                      |                                                                        |
+| -------------------- | ---------------------------------------------------------------------- |
+|      SHARE           |      copy and redistribute the material in any medium or format        |
+|      ADAPT           |      remix, transform, and build upon the material                     |
+
+      
 Under the following terms:
 
-   **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-    
-   **NonCommercial** — You may not use the material for commercial purposes.
-    
-   **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-    
-   **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-   
+|                       |                                                                        |
+| --------------------- | ---------------------------------------------------------------------- |
+|     Attribution       | You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
+|      NonCommercial    | You may not use the material for commercial purposes.                  |
+|      ShareAlike       | If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.          |
+| No additional restrict| You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  |
+
+
+  
 
 
 **HID2AMI BOOTLOADER** is free to download, copy and redistribuite.
@@ -82,7 +92,6 @@ This is why I would like to share this project with other of Amiga fans, but I w
 
 Within 2019/1Q I should be able to manage having a small number of ready assembled boards; I will notify here their availability, should anyone be ineterested in buying a complete one from me, rather than build one on his own from the gerbers. 
 
-**LICENSE
 
 **WARRANTY AND IMPORTANT NOTES
 
