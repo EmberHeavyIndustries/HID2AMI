@@ -11,7 +11,7 @@ If you like this project and want to contribute to its further development, plea
 (*) At the moment it has been tested with most Logitech Wingman, Thrustmaster series Gamepads and PS3/PC Gamepad clones. Xbox Gamepad support have to be considered in future releases (Xbox pads does not strictly comply to HID protocol). Working for any and every existing Gamepad cannot be guaranteed, but if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
 
 
-##**HOW DOES IT WORK** (in brief):
+## **HOW DOES IT WORK** (in brief):
 
 HID2AMI recognizes and manages any HID device connected to its USB interface; if the device is recognized as an HID mouse, then HID2AMI starts understanding live movements and button pressings of the peripheral, then converting both of them into proper quadrature waveforms (and Amiga mouse button pressings) which can be properly understood by the Amiga itself, as if a quadrature "Amiga" mouse was connected.
 
@@ -21,7 +21,7 @@ Gamepad's buttons are mapped evenly on Amiga button1/button2 inputs.
 There is no need to manually configure the emulation mode: device recognition and operation mode switching are automatically performed by HID2AMI itself.
 
 
- ##**HW AND SCHEMATICS**
+ ## **HW AND SCHEMATICS**
   
 |   Flavour      | Current ver.  |                Features               |
 | -------------- | ------------- | ------------------------------------- |
@@ -32,7 +32,7 @@ There is no need to manually configure the emulation mode: device recognition an
   *(Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
 
 
-##**FIRMWARE**
+## **FIRMWARE**
   
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
@@ -52,16 +52,16 @@ Features of fw v1.5.2:
 - Easy firmware upgrade through (windows) PC USB interface;
 
 
-##**DEVELOPMENT**
+## **DEVELOPMENT**
 
 HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf of **EmberHEavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
 
 
-##**ASSEMBLY**
+## **ASSEMBLY**
 
-##**LICENSE TERMS**
+## **LICENSE TERMS**
 
-###**Schematics and pcb gerbers** of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
+### **Schematics and pcb gerbers** of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
 This means that you are free to:
 
 |                      |                                                                        |
@@ -80,11 +80,11 @@ Under the following terms:
 | No additional restrict| You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  |
 
 
-###**HID2AMI BOOTLOADER** is free to download, copy and redistribuite.
+### **HID2AMI BOOTLOADER** is free to download, copy and redistribuite.
 
-###**HID2AMI APP** is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
+### **HID2AMI APP** is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
 
 
 
-##**Warranty Disclaimer and Limitation of Liability
+## **Warranty Disclaimer and Limitation of Liability
 
