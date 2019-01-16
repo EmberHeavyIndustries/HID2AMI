@@ -61,7 +61,8 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
 
 ## **LICENSE TERMS**
 
-### **Schematics and pcb gerbers** of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
+### **Schematics and pcb gerbers**
+of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
 This means that you are free to:
 
 |                      |                                                                        |
@@ -80,11 +81,18 @@ Under the following terms:
 | No additional restrict| You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  |
 
 
-### **HID2AMI BOOTLOADER** is free to download, copy and redistribuite.
+### **HID2AMI BOOTLOADER** 
+is free to download, copy and redistribuite.
 
-### **HID2AMI APP** is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
+### **HID2AMI APP** 
+is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
 
 
 
 ## **Warranty Disclaimer and Limitation of Liability
 
+HID2AMI is an hobbyist project without any commercial intention; you understand that we cannot and do not guarantee or warrant neither the HID2AMI hardware (including but not limited to: schematics, gerbers, pcb, components, assembling, etc.) nor the HID2AMI software (bootloader, app, etc) from defects, breakage or loss of functionality. You are using HID2AMI under your exclusive risk and responsibility; please understand and AGREE that **WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY EITHER ANY USE OR ANY MISUSE OF HID2AMI**
+
+BY MAKING USE OF HID2AMI, YOU EXPRESSLY AGREE THAT YOUR WILL ACCEPT IT ON "AS IS" BASIS WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOU ALSO EXPRESSELY AGREE THAT YOUR USE OF HID2AMI HARDWARE AND ITS SOFTWARE COMPONENTS IS AT YOUR OWN RISK. NEITHER THE AUTHOR (Sampedenawa) NOR ANY PERSON ASSOCIATED WITH THE AUTHOR MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE HID2AMI HARDWARE/SOFTWARE.
+
+IF YOU DO NOT UNDERSTAND AND EXPRESSLY AGREE WHAT STATED ABOVE, YOU ARE NOT ENTITLED BY THE AUTHOR TO USE HID2AMI FOR ANY PURPOSE.
