@@ -12,8 +12,9 @@ If you like this project and want to contribute to its further development, plea
 
 
 
-![Image of HID2AMI-01](https://github.com/EmberHeavyIndustries/HID2AMI/Pics/HID2AMI.v1.0.0-1-600.jpg)
+![Image of HID2AMI-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-1-600.jpg)
 
+![Image of HID2AMI-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.v1.0.0-2-600.jpg)
 
 ## **HOW DOES IT WORK** (in brief):
 
