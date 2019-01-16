@@ -23,18 +23,18 @@ There is no need to manually configure the emulation mode: device recognition an
 
 **PROJECT STATUS**
 
-  **HW AND SCHEMATICS
+**HW AND SCHEMATICS**
   
-  **HID2AMI LITE    hw v1.0.0
+  **HID2AMI LITE    hw v1.0.0**
   
-  **HID2AMI DeLuxe  hw v1.0.0
-  
+  **HID2AMI DeLuxe  hw v1.0.0**
+ 
   *(Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
 
-  **FIRMWARE
+  **FIRMWARE**
   
-   **HID2AMI BOOTLOADER fw v1.2.0
-   **HID2AMI APP        fw v1.5.2
+   **HID2AMI BOOTLOADER fw v1.2.0**
+   **HID2AMI APP        fw v1.5.2**
 
    Features of fw v1.5.2: 
     - Unified firmware, self configuring according to board variant (Lite or DeLuxe);
