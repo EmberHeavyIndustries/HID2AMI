@@ -89,8 +89,10 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
 ### ASSEMBLING REFERENCE DOCS
 
 At first, look at a fully assembled board (please note some vacancies: not all pads shall be populated)
-(https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151759_full.jpg "Reference Board: TOP")
-(https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full "Reference Board: BOTTOM")
+
+[Reference Board: TOP](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151759_full.jpg "Reference Board: TOP")
+
+[Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full "Reference Board: BOTTOM")
 
 *tbd: detailed assembling and flashing instructions will be linked here*
 
