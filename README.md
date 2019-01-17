@@ -63,6 +63,14 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
 
 ## **ASSEMBLY**
 
+ ## **WARNING !!**
+ 
+ **NEVER, NEVER, NEVER connect "both sides" of HID2AMI to a power source at the same time !**
+ **This means: do not connect HID2AMI to a PC through the USB port while it is plugged into your Amiga joy or mouse port !
+ **If you want to upgrade your HID2AMI with bootloader or DFU mode, beware to disconnect it from your Amiga first !
+ 
+
+
 #### Starting from scratch
  - Get latest gerber files available and build the pcb with a service of your choice
  - Get the BOM and buy all needed components
