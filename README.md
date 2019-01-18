@@ -88,21 +88,24 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  - Get latest gerber files available and build the pcb with a service of your choice
  - Get the BOM and buy all needed components
  - Assemble your board (moderate soldering skills needed)
- - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed)
+ - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed) *(a)*
  - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
- - Put the board in HID2AMI-DFU mode and upload the APP
+ - Put the board in HID2AMI-DFU mode and upload the APP *(b)*
  - Put the board in RUN mode
  - Plug in and enjoy !
  
 #### DIY KIT
  - Assemble your board (moderate soldering skills needed)
- - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed)
+ - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed) *(a)*
  - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
- - Put the board in HID2AMI-DFU mode and upload the APP
+ - Put the board in HID2AMI-DFU mode and upload the APP *(a)*
  - Put the board in RUN mode
  - Plug in and enjoy !
+  
+  *(a) The bootloader need to be flashed only once in each HID2AMI's board lifetime
+  *(b) The HID2AMI APP can be flashed at any new firmware release
   
 #### PREASSEMBLED BOARD
  - Just plug in and enjoy !
