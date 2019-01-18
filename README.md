@@ -61,7 +61,7 @@ Features of fw v1.5.2:
 
 |      Device      |                Model               | HID2AMI v. | Working |                Notes                 |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------|
-| Mouse            |                                    |  v1.0.0    |  YES    | Any HID mouse                        |
+| Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |
 | Gamepad          | Logitech Wingman Rumble            |  v1.3.0    |  YES    | Both digital and analog mode         |
 | Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |
 | Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |
