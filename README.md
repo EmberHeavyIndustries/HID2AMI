@@ -57,6 +57,17 @@ Features of fw v1.5.2:
 - Self discover and mapping of pad buttons (limited to first 6);
 - Easy firmware upgrade through (windows) PC USB interface;
 
+(!) HID2AMI has been tested against a number of HID compliant Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. Thanks !
+
+|      Device      |                Model               | HID2AMI v. | Working |                Notes                 |
+| ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------|
+| Mouse            |                                    |  v1.0.0    |  YES    | Any HID mouse                        |
+| Gamepad          | Logitech Wingman Rumble            |  v1.3.0    |  YES    | Both digital and analog mode         |
+| Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |
+| Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |
+| Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |
+| Gamepad          | XBOX 360 Clone                     |  v-.-.-    | NOT YET | Not HID protocol compliant           |
+
 
 ## **DEVELOPMENT**
 
