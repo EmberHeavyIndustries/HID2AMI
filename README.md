@@ -205,7 +205,7 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 
 #### **FLASHING THE BOOTLOADER**
 - Install the ST DFU Tool package on your Windows machine. Make sure you have the ST DFU-USB driver installed (in case something went wrong, you can manually install them from the DFU Tool's directory)
-- Put HID2AMI in DFU-BOOT mode, by selecting position 2-3 for both "BOOT0" and "PA9BOOT" jumpers
+- Set HID2AMI in DFU-BOOT mode, by selecting position 2-3 for both "BOOT0" and "PA9BOOT" jumpers
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable
 - After few seconds, HID2AMI should be recognized by Windows as "ST Device in DFU Mode"
@@ -214,6 +214,13 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 You should come to a condition like this  ![DFU-BOOT-INJECT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-02.Dfu.Bootloader.inject.jpg)
 - Press "Upgrade" button and waity the process to finish with success.
 
+#### **RETRIEVING YOUR PERSONAL BOARD CODE**
+If everything went fine, your board now can boot from the BOOTLOADER and is ready to be loaded with the HID2AMI App
+- Set HID2AMI in BOOTLOADER mode, by selectin position 1-2 for "BOOT0" and position 2-3 for "PA9BOOT"
+- MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
+- Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable: the bootloader should take control, and you should see the activity led on board (lower led near usb connector) fastly blinking
+- - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
+In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which can be read
 
 
 
