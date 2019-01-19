@@ -123,7 +123,8 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.pdf)
 
-#### **BOM
+#### **BILL OF MATERIALS
+
 |Part   |   Value  |     Device       |  Package   |   Note   | 
 |-------|--------- |------------------|------------|----------|
 |BOOT0  |   JP2E   |        JP1       |   JUMPER   |          |
@@ -182,7 +183,9 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 |X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
 |       |          |                  |            | MANDATORY|
 
+### *** GERBER FILES
 
+[HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
 
 *tbd: detailed assembling and flashing instructions will be linked here*
 
