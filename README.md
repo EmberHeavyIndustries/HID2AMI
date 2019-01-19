@@ -105,8 +105,9 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  - Put the board in RUN mode
  - Plug in and enjoy !
   
-  *(a) The bootloader need to be flashed only once in each HID2AMI's board lifetime
-  *(b) The HID2AMI APP can be flashed at any new firmware release
+  *(a) The bootloader need to be flashed only once in each HID2AMI's board lifetime*
+  
+  *(b) The HID2AMI APP can be flashed at any new firmware release*
   
 #### PREASSEMBLED BOARD
  - Just plug in and enjoy !
