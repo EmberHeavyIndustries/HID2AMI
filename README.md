@@ -210,6 +210,10 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable
 - After few seconds, HID2AMI should be recognized by Windows as "ST Device in DFU Mode"
 - Launch "DfuSeDemo" App from ST Tools package. You should see a form like this one, showing your HID2AMI has booted in DFU mode and has been recognized properly  ![DFU-BOOT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-01.Dfu.Boot.jpg)
+- Select the HID2AMIBOOTLOADER.dfu file you can download from [here](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu) by pressing "Choose" under "Upgrade or Verify Action". You should come to a condition like here: ![DFU-BOOT-INJECT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-02.Dfu.Bootloader.inject.jpg)
+- Press "Upgrade" button and waity the process to finish with success.
+
+
 
 
 
