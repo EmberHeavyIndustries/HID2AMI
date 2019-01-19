@@ -194,7 +194,25 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
 
-*tbd: detailed assembling and flashing instructions will be linked here*
+
+### **FLASHING INSTRUCTIONS**
+
+#### **PREREQUISITES**
+In order to be able to flash both the bootloader and the HID2AMI app, you need:
+- A MS-Windows PC
+- An A-A USB cable (https://www.google.com/search?q=a-a+usb+cable)
+- The free ST DFU Tools. Download the package from here (https://www.st.com/en/development-tools/stsw-stm32080.html)
+
+#### **FLASHING THE BOOTLOADER**
+- Install the ST DFU Tool package on your Windows machine. Make sure you have the ST DFU-USB driver installed (in case something went wrong, you can manually install them from the DFU Tool's directory)
+- Put HID2AMI in DFU-BOOT mode, by selecting position 2-3 for both "BOOT0" and "PA9BOOT" jumpers
+- MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
+- Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable
+- After few seconds, HID2AMI should be recognized by Windows as "ST Device in DFU Mode"
+- Launch "DfuSeDemo" App from ST Tools package. You should see a form like this one, showing your HID2AMI has booted in DFU mode and has been recognized properly  ![DFU-BOOT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-01.Dfu.Boot.jpg)
+
+
+
 
 ## **LICENSE TERMS**
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
