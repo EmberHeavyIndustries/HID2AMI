@@ -124,6 +124,12 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.pdf)
 
+#### **REFERENCE LAYOUTS**
+
+[Reference Layout v1.0.0 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.top.pdf)
+
+[Reference Layout v1.0.0 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.bottom.pdf)
+
 #### **BILL OF MATERIALS**
 
 |Part   |   Value  |     Device       |  Package   |   Note   | 
