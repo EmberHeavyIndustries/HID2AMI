@@ -7,7 +7,7 @@ Donors will be added to the "firmware beta release" channel, and will receive al
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 **HID2AMI** is an **HID mouse to quadrature waveform converter** and **HID Gamepad adapter** for the Amiga (and AtariST also..) series of boards; it allows ANY modern HID mouse (not limited to PS/2-USB) and almost ANY (*) modern digital/analog Gamepad to be connected and enjoyed with our Amiga computers.
@@ -63,10 +63,10 @@ Features of fw v1.5.2:
 |      Device      |                Model               | HID2AMI v. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |     |
-| Gamepad          | Logitech Wingman Rumble            |  v1.3.0    |  YES    | Both digital and analog mode         |     |
-| Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |[![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)]     |
-| Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |     |
-| Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |     |
+| Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
+| Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)|
+| Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Firestorm_200.jpg)|
+| Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
 | Gamepad          | XBOX 360 Clone                     |  v-.-.-    | NOT YET | Not HID protocol compliant           |     |
 
 
