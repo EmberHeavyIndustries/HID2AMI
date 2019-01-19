@@ -1,0 +1,19 @@
+Partlist exported from C:/Users/root/Desktop/EagleProjects/HID2AMI/HID2AMI.Deluxe.Rev1.1.0.sch at 1/8/2019 13:32 PM
+
+Qty Value         Device        Package Parts                                              Description                                                           MF        MPN    OC_FARNELL OC_NEWARK SPICEPREFIX
+1                 CRYSTALHC49S  HC49/S  Q1                                                 CRYSTAL                                                                                1667008    unknown              
+1                 F09HP         F09HP   X2                                                 SUB-D                                                                                  unknown    unknown              
+2                 JP2E          JP2     BOOT0, PA9BOOT                                     JUMPER                                                                                                                 
+1                 JP3Q          JP3Q    JP2                                                JUMPER                                                                                                                 
+2                 LEDSML0805    SML0805 LED1, LED2                                         LED                                                                                                                    
+1                 PN87520       PN87520 X1                                                 BERG USB connector                                                                     unknown    unknown              
+4                 SJ2W          SJ_2    SJ1, SJ2, SJ3, SJ4                                 SMD solder JUMPER                                                                                                      
+1   100k          R-EU_M0805    M0805   R2                                                 RESISTOR, European symbol                                                                                   R          
+12  100n          C-EUC0805     C0805   C1, C2, C4, C5, C6, C7, C8, C9, C12, C14, C15, C16 CAPACITOR, European symbol                                                                                  C          
+1   10u           C-EUC0805     C0805   C13                                                CAPACITOR, European symbol                                                                                  C          
+1   10u           C-EUC1206     C1206   C3                                                 CAPACITOR, European symbol                                                                                  C          
+9   1k            R-EU_M0805    M0805   R3, R4, R5, R6, R7, R8, R9, R10, R11               RESISTOR, European symbol                                                                                   R          
+2   22p           C-EUC0805     C0805   C10, C11                                           CAPACITOR, European symbol                                                                                  C          
+7   BSS138        BSS138        SOT23   Q2, Q3, Q4, Q5, Q6, Q7, Q8                         BSS138 N-Channel Logic Level Enhancement Mode Field Effect Transistor Fairchild BSS138 9845330    67R2009              
+1   LM1117MPX-3.3 LM1117MPX-3.3 SOT223  IC1                                                                                                                                                                       
+1   STM32F10XRXT6 STM32F10XRXT6 TQFP64  U1                                                 STM32F101/103 64pin LQFP                                                                                               
