@@ -256,6 +256,9 @@ is free to download, copy and redistribuite.
 ### **HID2AMI APP** 
 is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
 
+#### **PRICING POLICY**
+I've spent a great effort in designing and developing this app, so I would be grateful if you'd be happy to contibute to its future development, by asking you a small fee for the app itself.
+
 
 
 ## **Warranty Disclaimer and Limitation of Liability**
