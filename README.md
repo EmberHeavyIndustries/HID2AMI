@@ -219,7 +219,7 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 - Set HID2AMI in BOOTLOADER mode, by selectin position 1-2 for "BOOT0" and position 2-3 for "PA9BOOT"
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable: the bootloader should take control, and you should see the activity led on board (lower led near usb connector) fastly blinking
-- - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
+- - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows. Note down the four characters in "Version" ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
 In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which can be read
 
 
