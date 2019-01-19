@@ -119,11 +119,11 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full.jpg "Reference Board: BOTTOM")
 
-#### **SCHEMATICS
+#### **SCHEMATICS**
 
 [HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.pdf)
 
-#### **BILL OF MATERIALS
+#### **BILL OF MATERIALS**
 
 |Part   |   Value  |     Device       |  Package   |   Note   | 
 |-------|--------- |------------------|------------|----------|
@@ -183,7 +183,7 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 |X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
 |       |          |                  |            | MANDATORY|
 
-### *** GERBER FILES
+### **GERBER FILES**
 
 [HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
 
