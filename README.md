@@ -119,6 +119,71 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/20190105_151811_full.jpg "Reference Board: BOTTOM")
 
+#### **SCHEMATICS
+
+[HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.pdf)
+
+#### **BOM
+|Part   |   Value  |     Device       |  Package   |   Note   | 
+|-------|--------- |------------------|------------|----------|
+|BOOT0  |   JP2E   |        JP1       |   JUMPER   |          |
+|PA9BOOT|   JP2E   |        JP2       |   JUMPER   |          |
+|       |          |                  |            |          |
+|C1     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C2     | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C3     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C4     | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C5     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C6     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C7     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
+|C8     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
+|C9     | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C10    | 10u      |   C-EUC0805      |  C0805     | Optional |
+|C11    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C12    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C13    | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C14    | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C15    | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C16    | 10u      |   C-EUC1206      |  C1206     | Optional |
+|       |          |                  |            |          |
+|IC1    |LM1117-3.3|   LM1117MPX-3.3  |  SOT223    | MANDATORY|
+|       |          |                  |            |          |
+|LED1   |          |   LEDSML0805     |  SML0805   | Optional |
+|LED2   |          |   LEDSML0805     |  SML0805   | Optional |
+|       |          |                  |            |          |
+|Q1     | 8MHz     |   CRYSTALHC49S   |  HC49/S    | MANDATORY|
+|       |          |                  |            |          |
+|Q2     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q3     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q4     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q5     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q6     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q7     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q8     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|       |          |                  |            |          |
+|R1     | 0k       |   SHORT          |  M805      | MANDATORY|
+|R2     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R3     | 0k       |   SHORT          |  M805      | MANDATORY|
+|R4     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
+|R5     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
+|R6-R12 | ---      |   --             |  --        | NA       |
+|R13    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R14    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R15    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R16    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R17    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R18    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R19    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R20    | 0k       |   SHORT          |  M805      | MANDATORY|
+|       |          |                  |            |          |
+|U1     | F105RBT6 |   STM32F105RBT6  |  TQFP64    | MANDATORY|
+|       |          |                  |            |          |
+|X1     |          |   USB-CONNECTOR  |            |          |
+|X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
+|       |          |                  |            | MANDATORY|
+
+
+
 *tbd: detailed assembling and flashing instructions will be linked here*
 
 ## **LICENSE TERMS**
