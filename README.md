@@ -262,10 +262,22 @@ is free to download, copy and redistribuite.
 ### **HID2AMI APP** 
 is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
 
-#### **PRICING POLICY**
-I've spent a great effort in designing and developing this app, so I would be grateful if you'd be happy to contibute to its future development, by asking you a small fee for the app itself.
+## **DISTRIBUTION AND PRICING POLICY**
+I've spent a great effort in designing and developing this app, so I would be grateful if you'd be happy to contibute to its future development. I decided to release all project's details, schematics and gerbers for free to everyone, but retaining myself close control over the firmware app. Being this one a no-profit hobbyist project, I can't guarantee any volume production of boards, so I will following the following distributio policies, for who may be interested in having one:
 
+- Software only
+-  You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
+-  You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
+-  Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
 
+- DYI KIT
+-  You build the board yourself by getting from me the pcb and all needed components
+-  You get the APP from me by sending me a request together with your personal 4-digits code 
+-  Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+
+- COMPLETE BOARD
+-  You get the fully working board from me by sending me a request 
+-  (Rare) Availability and costs of complete boards shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
 
 ## **Warranty Disclaimer and Limitation of Liability**
 
