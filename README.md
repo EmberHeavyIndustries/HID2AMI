@@ -217,7 +217,7 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 - After few seconds, HID2AMI should be recognized by Windows as "ST Device in DFU Mode"
 - Launch "DfuSeDemo" App from ST Tools package. You should see a form like this one, showing your HID2AMI has booted in DFU mode and has been recognized properly  ![DFU-BOOT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-01.Dfu.Boot.jpg)
 - Select the HID2AMIBOOTLOADER.dfu file you previosly downloaded from [here](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu) by pressing "Choose" under "Upgrade or Verify Action". 
-You should come to a condition like this  ![DFU-BOOT-INJECT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-02.Dfu.Bootloader.inject.jpg)
+You should come to a condition like this          ![DFU-BOOT-INJECT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-02.Dfu.Bootloader.inject.jpg)
 - Press "Upgrade" button and waity the process to finish with success.
 
 #### **RETRIEVING YOUR PERSONAL BOARD CODE**
@@ -266,18 +266,18 @@ is distribuited by request from the author; each instance is strictly tied 1:1 t
 I've spent a great effort in designing and developing this app, so I would be grateful if you'd be happy to contibute to its future development. I decided to release all project's details, schematics and gerbers for free to everyone, but retaining myself close control over the firmware app. Being this one a no-profit hobbyist project, I can't guarantee any volume production of boards, so I will following the following distributio policies, for who may be interested in having one:
 
 - Software only
--  You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
--  You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
--  Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+  - You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
+  - You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
+  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
 
 - DYI KIT
--  You build the board yourself by getting from me the pcb and all needed components
--  You get the APP from me by sending me a request together with your personal 4-digits code 
--  Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+  - You build the board yourself by getting from me the pcb and all needed components
+  - You get the APP from me by sending me a request together with your personal 4-digits code 
+  - Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
 
 - COMPLETE BOARD
--  You get the fully working board from me by sending me a request 
--  (Rare) Availability and costs of complete boards shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+  - You get the fully working board from me by sending me a request 
+  - (Rare) Availability and costs of complete boards shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
 
 ## **Warranty Disclaimer and Limitation of Liability**
 
