@@ -225,8 +225,8 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 - Set HID2AMI in BOOTLOADER mode, by selectin position 1-2 for "BOOT0" and position 2-3 for "PA9BOOT"
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable: the bootloader should take control, and you should see the activity led on board (lower led near usb connector) fastly blinking
-- Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows. Note down the four characters in "Version" ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
-- In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which is the four character as above (in the case of the picture is "D530", your should obviously be different)
+- Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows. Note down the four characters you see near "Version" field ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
+- In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which is the four character as above (in the case of the picture is "D530", yours should obviously be different)
 
 #### **FLASHING THE HID2AMI APP**
 - Once received your personalized app file, in the form "HID2AMIAPP.XXXX.dfu", boot again HID2AMI in BOOTLOADER mode (just as above), "Choose" the app file "HID2AMIAPP.XXXX.dfu" and press "Upgrade" ![DFU-LOADAPP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-04.HID2AMI.Dfu.App.Inject.jpg)
