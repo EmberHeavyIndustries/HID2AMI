@@ -92,19 +92,19 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  - Get the BOM and buy all needed components
  - Assemble your board (moderate soldering skills needed)
  - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed) *(a)*
- - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
+ - Put the board in BOOTLOADER mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
- - Put the board in HID2AMI-DFU mode and upload the APP *(b)*
- - Put the board in RUN mode
+ - Put the board in BOOTLOADER mode and upload the APP *(b)*
+ - Put the board in APP mode
  - Plug in and enjoy !
  
 #### DIY KIT
  - Assemble your board (moderate soldering skills needed)
  - Put the board in DFU mode and upload bootloader (USB A-A cable, DFU drivers and a Windows PC needed) *(a)*
- - Put the board in HID2AMI-DFU mode, get your personal board-license-unique-code
+ - Put the board in BOOTLOADER mode, get your personal board-license-unique-code
  - Get the HID2AMI APP from the author, by sending him a request together with your board-license-unique-code
- - Put the board in HID2AMI-DFU mode and upload the APP *(a)*
- - Put the board in RUN mode
+ - Put the board in BOOTLOADER mode and upload the APP *(a)*
+ - Put the board in APP mode
  - Plug in and enjoy !
   
   *(a) The bootloader need to be flashed only once in each HID2AMI's board lifetime*
@@ -225,7 +225,7 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 - In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which is the four character as above (in the case of the picture is "D530", your should obviously be different)
 
 #### **FLASHING THE HID2AMI APP**
-- Once received your personalized app file, in the form "HID2AMIAPP.D530.dfu", boot again HID2AMI in BOOTLOADER mode (just as above), "Choose" the app file "HID2AMIAPP.D530.dfu" and press "Upgrade" ![DFU-LOADAPP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-04.HID2AMI.Dfu.App.Inject.jpg)
+- Once received your personalized app file, in the form "HID2AMIAPP.XXXX.dfu", boot again HID2AMI in BOOTLOADER mode (just as above), "Choose" the app file "HID2AMIAPP.XXXX.dfu" and press "Upgrade" ![DFU-LOADAPP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-04.HID2AMI.Dfu.App.Inject.jpg)
 - You're done ! Put the HID2AMI board in APP mode by by selecting position 1-2 for both "BOOT0" and "PA9BOOT" jumpers, **DISCONNECT you HID2AMI board from your Windows PC** and connect it to any Mouse/Joy port of your Amiga
 - Enjoy !
 
