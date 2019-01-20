@@ -196,6 +196,10 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
 
+### **BOOTLOADER**
+
+Current BOOTLOADER version is 1.3.0. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
+
 
 ### **FLASHING INSTRUCTIONS**
 
