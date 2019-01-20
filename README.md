@@ -83,7 +83,7 @@ HID2AMI hardware and firmware were designed, developed and maintained by **Sampe
  **This means: do not connect HID2AMI to a PC through the USB port while it is plugged into your Amiga's joy/mouse port !**
  **If you want to upgrade your HID2AMI with bootloader or DFU mode, beware to disconnect it from your Amiga first !**
  
- - **BE AWARE** that when you connect a peripheral to the Amiga's mouse/joy port, the power supply or that peripheral comes from/through that port itself. Amiga control peripheral ports were probably not designed with "mega-rumble-end-of-universe-nuclear-powered" gamepads in mind: while there is generally no risk in connecting "common" mainstream peripherals like the ones has been tested (see above), be aware that improperly connecting an "high" power-demanding device could lead to overheat or even damage the Amiga joy/mouse port. You are usign HID2AMI at your own risk: I will either not be liable nor responsible for any damage you could cause to your hardware for any use or misuse of HID2AMI together with your systems.  
+ - **BE AWARE** that when you connect a peripheral to the Amiga's mouse/joy port, the power supply or that peripheral comes from/through that port itself. Amiga control peripheral ports were probably not designed with "mega-rumble-end-of-universe-nuclear-powered" gamepads in mind: while there is generally no risk in connecting "common" mainstream peripherals like the ones have been tested (see above), be aware that improperly connecting an "high" power-demanding device could lead to overheat or even damage the Amiga joy/mouse port. You are usign HID2AMI at your own risk: I will either not be liable nor responsible for any damage you could cause to your hardware for any use or misuse of HID2AMI together with your systems.  
  
 
 
@@ -225,7 +225,7 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 - Set HID2AMI in BOOTLOADER mode, by selectin position 1-2 for "BOOT0" and position 2-3 for "PA9BOOT"
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable: the bootloader should take control, and you should see the activity led on board (lower led near usb connector) fastly blinking
-- Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable and look at DfuSeDemo window: you should see something like as follows. Note down the four characters you see near "Version" field ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
+- Look at DfuSeDemo window: you should see something like as follows. Note down the four characters you see near "Version" field ![DFU-BOOTLOADED](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-03.HID2AMI.Dfu.codeget.jpg)
 - In order to get a properly signed app, working tied to your board, you have to ask it from the author, by sending him an [email](mailto:EmberHEavyIndustries@gmail.com) together with your personal code, which is the four character as above (in the case of the picture is "D530", yours should obviously be different)
 
 #### **FLASHING THE HID2AMI APP**
