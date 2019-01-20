@@ -43,7 +43,7 @@ There is no need to manually configure the emulation mode: device recognition an
   
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
-| HID2AMI BOOTLOADER   |    v1.2.0     |   Enables DFU upgrade of APP         |
+| HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
 | HID2AMI APP          |    v1.5.2     |   see notes below                    |
   
 
