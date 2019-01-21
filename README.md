@@ -1,4 +1,5 @@
-# HID2AMI 
+![HID2AMI](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID2-AMI-Logo-Web-Show.png)
+
 **If you like this project and want to contribute to its further development, please consider donate 1$ or 1EU (or more, if you wish; paypal friends & family, please).** 
 
 Donors will be added to the "firmware beta release" channel, and will receive all intermediate beta releases of firmware updates, between major "official" releases. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
