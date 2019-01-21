@@ -192,9 +192,9 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 |       |          |                  |            |          |
 |U1     | F105RBT6 |   STM32F105RBT6  |  TQFP64    | MANDATORY|
 |       |          |                  |            |          |
-|X1     |          |   USB-CONNECTOR  |            |          |
+|X1     |          |   USB-CONNECTOR  |            | MANDATORY|
 |X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
-|       |          |                  |            | MANDATORY|
+|       |          |                  |            |          |
 
 ### **GERBER FILES**
 
