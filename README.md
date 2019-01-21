@@ -12,7 +12,7 @@ Donors will be added to the "firmware beta release" channel, and will receive al
 
 **HID2AMI** is an **HID mouse to quadrature waveform converter** and **HID Gamepad adapter** for the Amiga (and AtariST also..) series of boards; it allows ANY modern HID mouse (not limited to PS/2-USB) and almost ANY (*) modern digital/analog Gamepad to be connected and enjoyed with our Amiga computers.
 
-(*) At the moment it has been tested with most Logitech Wingman, Thrustmaster series Gamepads and PS3/PC Gamepad clones. Xbox Gamepad support have to be considered in future releases (Xbox pads does not strictly comply to HID protocol). Working for each and every existing Gamepad cannot be guaranteed, but if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
+(*) At the moment it has been tested with most Logitech Wingman, Thrustmaster series Gamepads and PS3/PC Gamepad clones, Xbox Gamepad clones (Xbox pads does not strictly comply to HID protocol). Working for each and every existing Gamepad cannot be guaranteed, but if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
 
 
 
@@ -44,9 +44,12 @@ There is no need to manually configure the emulation mode: device recognition an
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.5.2     |   see notes below                    |
+| HID2AMI APP          |    v1.6.0     |   see notes below                    |
   
 
+Features of fw v1.6.0:
+- Added support for XBOX 360 Gamepad clones;
+- Added support for MS Intellimouse;
 
 Features of fw v1.5.2: 
 - Unified firmware, self configuring according to board variant (Lite or DeLuxe);
@@ -62,13 +65,13 @@ Features of fw v1.5.2:
 
 |      Device      |                Model               | HID2AMI fw version | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
-| Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
+| Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)
+| Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not HID protocol compliant           |![MOU](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)|
 | Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
 | Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)|
 | Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Firestorm_200.jpg)|
 | Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
-| Gamepad          | XBOX 360 Clone                     |  v-.-.-    | NOT YET | Not HID protocol compliant           |     |
-
+| Gamepad          | XBOX 360 Clone                     |  v1.6.0    | YES     | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) |
 
 ## **DEVELOPMENT**
 
