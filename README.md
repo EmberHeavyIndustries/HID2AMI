@@ -24,7 +24,7 @@ Donors will be added to the "firmware beta release" channel, and will receive al
 HID2AMI recognizes and manages any HID device connected to its USB interface; if the device is recognized as an HID mouse, then HID2AMI starts capturing live movements and button pressings of the peripheral, then converting both of them into proper quadrature waveforms (and Amiga mouse button pressings) which can be properly understood by the Amiga itself, as if a real quadrature "Amiga" mouse was connected.
 
 If the device is recognized as an HID gamepad, then HID2AMI maps pad's controls on the Amiga Joystick port/interface.
-Gamepad's buttons are mapped evenly on Amiga button1/button2 inputs.
+Gamepad's buttons are mapped evenly on Amiga button1/button2/UP (useful for jump & racing games) inputs.
 
 There is no need to manually configure the emulation mode: device recognition and operation mode switching are automatically performed by HID2AMI itself.
 
@@ -45,8 +45,11 @@ There is no need to manually configure the emulation mode: device recognition an
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.6.0     |   see notes below                    |
+| HID2AMI APP          |    v1.6.2     |   see notes below                    |
   
+Features of fw v1.6.2:
+- Added mapping of UP/Forward to Gamepad 3rd button;
+- Optimized gamepad decoding core, even faster response;
 
 Features of fw v1.6.0:
 - Added support for XBOX 360 Gamepad clones;
