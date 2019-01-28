@@ -185,13 +185,13 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 |R4     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
 |R5     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
 |R6-R12 | ---      |   --             |  --        | NA       |
-|R13    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R14    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R15    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R16    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R17    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R18    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
-|R19    | 100      |   R-EU_M0805     |  M805      | MANDATORY|
+|R13    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R14    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R15    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R16    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R17    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R18    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R19    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
 |R20    | 0k       |   SHORT          |  M805      | MANDATORY|
 |       |          |                  |            |          |
 |U1     | F105RBT6 |   STM32F105RBT6  |  TQFP64    | MANDATORY|
