@@ -1,10 +1,10 @@
 ![HID2AMI](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID2-AMI-Logo-Web-Show.png)
 
-**If you like this project and want to contribute to its further development, please consider donate 1$ or 1EU (or more, if you wish; paypal friends & family, please).** 
+**If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "But something" from money transfer frontpage).** 
 
 Donors will be added to the "firmware beta release" channel, and will receive all intermediate beta releases of firmware updates, between major "official" releases. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QTBMV6CTLBSE8)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/EmberHeavyIndustries)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
@@ -282,7 +282,7 @@ I've spent a great effort in designing and developing this app, so I would be gr
 - Software only
   - You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
   - You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
-  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org) 
 
 - DYI KIT
   - You build the board yourself by getting from me the pcb and all needed components
