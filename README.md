@@ -282,16 +282,17 @@ I've spent a great effort in designing and developing this app, so I would be gr
 - Software only
   - You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
   - You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
-  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org) 
+  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org). 
 
 - DYI KIT
   - You build the board yourself by getting from me the pcb and all needed components
   - You get the APP from me by sending me a request together with your personal 4-digits code 
-  - Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+  - Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org).
 
 - COMPLETE BOARD
   - You get the fully working board from me by sending me a request 
   - (Rare) Availability and costs of complete boards shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
+. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org).
 
 ## **Warranty Disclaimer and Limitation of Liability**
 
