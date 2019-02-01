@@ -46,8 +46,13 @@ There is no need to manually configure the emulation mode: device recognition an
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.6.2     |   see notes below                    |
+| HID2AMI APP          |    v1.7.1     |   see notes below                    |
   
+
+Features of fw v1.7.1:
+- Added mapping of DWN/backward to Gamepad 4th button. Buttons are now evenly mapped according P1->P2->UP->DWN sequence;
+- User can swap UP<->DWN button mapping by simultaneously pressing first 4 pad's buttons;
+
 Features of fw v1.6.2:
 - Added mapping of UP/Forward to Gamepad 3rd button;
 - Optimized gamepad decoding core, even faster response;
