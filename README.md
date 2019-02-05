@@ -247,7 +247,7 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 - Launch "DfuSeDemo" App from ST Tools package. You should see a form like this one, showing your HID2AMI has booted in DFU mode and has been recognized properly ![DFU-BOOT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-01.Dfu.Boot.jpg)
 - Select the HID2AMIBOOTLOADER.dfu file you previosly downloaded from [here](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu) by pressing "Choose" under "Upgrade or Verify Action". 
 You should come to a condition like this          ![DFU-BOOT-INJECT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-02.Dfu.Bootloader.inject.jpg)
-- Press "Upgrade" button and waity the process to finish with success.
+- Press "Upgrade" button and wait the process to finish with success.
 
 #### **RETRIEVING YOUR PERSONAL BOARD CODE**
 If everything went fine, your board now can boot from the BOOTLOADER and is ready to be loaded with the HID2AMI App
