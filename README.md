@@ -150,7 +150,7 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 Components noted as "Optional" fulfil the general purpose STM32F1x reference design; generally speaking they can be safely omitted from the assembly of HID2AMI. Consider soldering any of them in case you experience some instability of any kind (never experienced so far).
 
 LED1 is "run mode" indicator; it blinks at variable rates to indicate HID2AMI running status (suggesetd colors: green, yellow, white)
-- When in BOOTLOADER mode, a fast blink means bootloader running and waiting for the "App" to be flashed/upgarded
+- When in BOOTLOADER mode, a fast blink means bootloader running and waiting for the "App" to be flashed/upgraded
 - When in APP mode, a "regular" blinking means the App is running and waiting for input; a slower blinking (upon connecting a peripheral), means the peripheral correctly identified and mapped 
 
 LED2 is the "power on" indicator; if lit then your board gets correct +5V and +3.3V power supply 
