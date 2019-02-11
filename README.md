@@ -46,8 +46,15 @@ There is no need to manually configure the emulation mode: device recognition an
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.7.1     |   see notes below                    |
+| HID2AMI APP          |    v1.7.3     |   see release notes below            |
   
+
+Features of fw v1.7.3:
+- Added custom free mapping of first 4 buttons of Gamepad. By pressing 4buttons+LeftStickDown the board enters in mapping mode; pressing in turn single buttons maps them on Amiga1->Amiga2->Up->Down
+- Added custom mapping config autosave: each custom configuration is permanently stored and recalled upon Gamepad reconnection.
+- Separate permanent configs (up to 20) are saved and recalled automatically upon recognition of Gamepads brand/model
+- Added support for 12 bit high resolution gaming mice
+- Added customizable real-time mouse pointer speed adjust, by rolling the mousewheel forward/backwards
 
 Features of fw v1.7.1:
 - Added mapping of DWN/backward to Gamepad 4th button. Buttons are now evenly mapped according P1->P2->UP->DWN sequence;
