@@ -242,7 +242,7 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 - The free ST DFU Tools. Download the package from here (https://www.st.com/en/development-tools/stsw-stm32080.html)
 
 #### **ALTERNATE: FLASHING IN LINUX**
-Thanks to the precious & talented friend Sukkopera (https://github.com/SukkoPera) an equivalent flashing procedure can be followed to achieve the very same result. You can find it here: [Sukkopera's Linux Flashing instructions] (https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid2ami_linux.md)
+Thanks to the precious & talented friend Sukkopera (https://github.com/SukkoPera), an equivalent flashing procedure can be followed to achieve the very same results. You can find it here: [Sukkopera's Linux Flashing instructions](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid2ami_linux.md)
 Thank you SukkoPera !
 
 #### **FLASHING THE BOOTLOADER**
