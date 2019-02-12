@@ -8,7 +8,7 @@ In order to be able to flash both the bootloader and the HID2AMI app, you need:
 - for Linux: the free dfu-util from http://dfu-util.sourceforge.net.
 
 ### **FLASHING IN LINUX**
-Thanks to the precious & talented friend Sukkopera (https://github.com/SukkoPera), an equivalent flashing procedure can be followed to achieve the very same results. You can find it here: [Sukkopera's Linux Flashing instructions](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid2ami_linux.md)
+Thanks to the precious & talented friend Sukkopera (https://github.com/SukkoPera), HID2AMI App can be flashed within a Linux environment as well as its Windows counterpart. You can find the detailed procedure here: [Sukkopera's Linux Flashing instructions](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid2ami_linux.md)
 Thank you SukkoPera !
 
 ### **FLASHING IN WINDOWS**
