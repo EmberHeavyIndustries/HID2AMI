@@ -55,6 +55,7 @@ Features of fw v1.7.3:
 - Separate permanent configs (up to 20) are saved and recalled automatically upon recognition of Gamepads brand/model
 - Added support for 12 bit high resolution gaming mice
 - Added customizable real-time mouse pointer speed adjust, by rolling the mousewheel forward/backwards
+- Added save of permanent config for mouse pointer speed, by pressing L-M-R buttons together 
 
 Features of fw v1.7.1:
 - Added mapping of DWN/backward to Gamepad 4th button. Buttons are now evenly mapped according P1->P2->UP->DWN sequence;
