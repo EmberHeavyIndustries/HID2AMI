@@ -44,7 +44,7 @@ HID2AMI will store and retrieve your settings next time you will connect the mou
 
 - Connect a compatible joy/gamepad to the USB port of HID2AMI: the "running led" should slow down to roughly blinking once a second: the pad has been recognized and initialized
 - You can set your pad to work either in Analog or Digital mode, according to your preferences; start then playing with your pad, and consider customizing its workign parameters as follows
-- By default, HID2AMI maps the first six gamepad buttons to the sequence: Amiga1 - Amiga2 - UP - DOWN Amiga1 - Amiga2. Unfortunately any single different pad declares its buttons in somewhat a random order, so it is not possible for HID2AMI to be sure that the automatic mapping meets your tastes. So, consider customizing your settings as follows
+- By default, HID2AMI maps the first six gamepad buttons to the sequence: Amiga1 - Amiga2 - UP - DOWN - Amiga1 - Amiga2. Unfortunately any single different pad declares its buttons in somewhat a random order, so it is not possible for HID2AMI to be sure that the automatic mapping meets your tastes. So, consider customizing your settings as follows
 
 
 #### **GAMEPAD CUSTOM SETTINGS**
