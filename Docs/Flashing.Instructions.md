@@ -2,13 +2,15 @@
 
 #### **PREREQUISITES**
 In order to be able to flash both the bootloader and the HID2AMI app, you need:
-- A MS-Windows PC
+- A MS-Windows or Linux PC
 - An A-A USB cable (https://www.google.com/search?q=a-a+usb+cable)
-- The free ST DFU Tools. Download the package from here (https://www.st.com/en/development-tools/stsw-stm32080.html)
+- for Windows: the free ST DFU Tools. Download the package from here (https://www.st.com/en/development-tools/stsw-stm32080.html)
 
-#### **ALTERNATE: FLASHING IN LINUX**
+#### **FLASHING IN LINUX**
 Thanks to the precious & talented friend Sukkopera (https://github.com/SukkoPera), an equivalent flashing procedure can be followed to achieve the very same results. You can find it here: [Sukkopera's Linux Flashing instructions](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid2ami_linux.md)
 Thank you SukkoPera !
+
+#### **FLASHING IN WINDOWS**
 
 #### **FLASHING THE BOOTLOADER**
 - Install the ST DFU Tool package on your Windows machine. Make sure you have the ST DFU-USB driver installed (in case something went wrong, you can manually install them from the DFU Tool's directory)
