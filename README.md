@@ -29,6 +29,11 @@ Gamepad's buttons are mapped evenly on Amiga button1/button2/UP (useful for jump
 
 There is no need to manually configure the emulation mode: device recognition and operation mode switching are automatically performed by HID2AMI itself.
 
+## **GETTING STARTED AND USER GUIDE**:
+
+Here you can find a quick user guide, describing basic operations and the available meta-commands for peripheral's profile customization, storage and retrieval.
+
+[HID2AMI QUICK USER GUIDE](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Quick.User.Guide.md)
 
  ## **HW AND SCHEMATICS**
   
