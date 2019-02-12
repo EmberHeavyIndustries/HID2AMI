@@ -49,7 +49,7 @@ HID2AMI will store and retrieve your settings next time you will connect the mou
 
 #### **GAMEPAD CUSTOM SETTINGS**
 
-HID2AMI allows the user to freely customize the mapping of any pad's first 4 buttons, more than enough to play any possible Amiga game. Furthermore, HID2AMI automatically saves the gamepad custom mapping into its internal flash, and retrieves it when the pad is connected again. Different brand/models of pads are automatically recognized, and the respective custom profile saves are stoered and recalled without any need of user's intervention.
+HID2AMI allows the user to freely customize the mapping of any pad's first 4 buttons, more than enough to play any possible Amiga game. Furthermore, HID2AMI automatically saves the gamepad custom mapping into its internal flash, and retrieves it when the pad is connected again. Different brand/models of pads are automatically recognized, and the respective custom profile saves are stored and recalled without any need of user's intervention.
 
 - **To start and perform the mapping procedure**
   - press all together the first 4 buttons of the pad AND pull the left trigger DOWN
