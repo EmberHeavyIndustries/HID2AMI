@@ -34,7 +34,7 @@ HID2AMI allows you to dynamically adjust the pointer speed, slowing/speeding-up 
   - Roll your mousewheel forward to slowdown the pointer travel speed by one step (0% - 25% - 50%)
   - Roll your mousewheel backwards to speedup the pointer travel speed by one step (0% - 25% - 50%)
 
-- To save your speed preferences in HID2AMI internal flash, simply push all three buttons (L-R-WHEEL) together at the same time: done !
+- **To save your speed preferences** in HID2AMI internal flash, simply **push all three buttons (L-R-WHEEL) together at the same time**: done !
 
 
 HID2AMI will store and retrieve your settings next time you will connect the mouse. If you have different mice brand/models, HID2AMI automatically saves a dedicated profile for each one, and automatically retrieves it when that particular mouse is connected.
@@ -51,7 +51,7 @@ HID2AMI will store and retrieve your settings next time you will connect the mou
 
 HID2AMI allows teh user to freely customize the mapping of any pad's first 4 buttons, more than enough to play any possible Amiga game. Furthermore, HID2AMI automatically saves the gamepad custom mapping into its internal flash, and retrieves it when the pad is connected again. Different brand/models of pads are automatically recognized, and the respective custom profile saves are stoered and recalled without any need of user's intervention.
 
-- To start and perform the mapping procedure
+- **To start and perform the mapping procedure**
   - press all together the first 4 buttons of the pad AND pull the left trigger DOWN
   - the running led stops blinking and stands firmly lit: you are in mapping mode
   - press in sequence the buttons you want to map to Amiga1 - Amiga2 - UP - DOWN ; after each acquired mapping, the "runnin led" changes state (lit-unlit-lit-unlit)
