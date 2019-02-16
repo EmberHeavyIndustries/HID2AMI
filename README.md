@@ -181,19 +181,19 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 |C1     | 100n     |   C-EUC0805      |  C0805     | Optional |
 |C2     | 10u      |   C-EUC1206      |  C1206     | Optional |
 |C3     | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C4     | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C4     | 100n     |   C-EUC0805      |  C0805     | Optional |
 |C5     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
 |C6     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
 |C7     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
 |C8     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
-|C9     | 10u      |   C-EUC1206      |  C1206     | Optional |
-|C10    | 10u      |   C-EUC0805      |  C0805     | Optional |
+|C9     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C10    | 10u      |   C-EUC1206      |  C1206     | Optional |
 |C11    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
 |C12    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
 |C13    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C14    | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C14    | 100n     |   C-EUC0805      |  C0805     | Optional |
 |C15    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C16    | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C16    | 100n     |   C-EUC0805      |  C0805     | Optional |
 |       |          |                  |            |          |
 |IC1    |LM1117-3.3|   LM1117MPX-3.3  |  SOT223    | MANDATORY|
 |       |          |                  |            |          |
