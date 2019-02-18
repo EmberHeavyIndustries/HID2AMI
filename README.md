@@ -25,7 +25,8 @@ Donors will be added to the "firmware beta release" channel, and will receive al
 HID2AMI recognizes and manages any HID device connected to its USB interface; if the device is recognized as an HID mouse, then HID2AMI starts capturing live movements and button pressings of the peripheral, then converting both of them into proper quadrature waveforms (and Amiga mouse button pressings) which can be properly understood by the Amiga itself, as if a real quadrature "Amiga" mouse was connected.
 
 If the device is recognized as an HID gamepad, then HID2AMI maps pad's controls on the Amiga Joystick port/interface.
-Gamepad's buttons are mapped evenly on Amiga button1/button2/UP (useful for jump & racing games) inputs.
+Gamepad's buttons are mapped evenly on Amiga button1/button2/UP/DOWN (useful for jump & racing games) inputs.
+Starting from fw 1.7.1 a custom mapping can be freely configured and stored for automatic retrieval upon reconnection.
 
 There is no need to manually configure the emulation mode: device recognition and operation mode switching are automatically performed by HID2AMI itself.
 
