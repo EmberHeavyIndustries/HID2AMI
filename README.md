@@ -87,7 +87,7 @@ Features of fw v1.5.2:
 
 (!) HID2AMI has been tested against a number of HID compliant Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. Thanks !
 
-|      Device      |                Model               | HID2AMI fw version | Working |                Notes                 |     |
+|      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
 | Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not HID protocol compliant           |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)|
