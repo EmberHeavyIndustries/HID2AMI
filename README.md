@@ -90,7 +90,7 @@ Features of fw v1.5.2:
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
 | Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not HID protocol compliant           |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)|
-| Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade stick_200.jpg)|
+| Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade.stick_200.jpg)|
 | Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
 | Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
 | Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
