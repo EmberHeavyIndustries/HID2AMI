@@ -103,7 +103,7 @@ Features of fw v1.5.2:
 | Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
 | Gamepad          | XBOX 360 Clone                     |  v1.6.0    |  YES    | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) 
 | Gamepad          | XBOX Elite                         |  future    |  NO     | Not HID protocol compliant           |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
-
+ 
 ## **DEVELOPMENT**
 
 HID2AMI hardware and firmware were designed, developed and maintained by **Sampedenawa** on behalf of **EmberHeavyIndustries** (an evil worldwide company, whose mission is to rule the world by the mean of reviving Amiga computers), following a discussion born on Italian www.amigapage.it Amiga forum.
