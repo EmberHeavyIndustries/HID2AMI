@@ -52,8 +52,15 @@ Here you can find a quick user guide, describing basic operations and the availa
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.7.3     |   see release notes below            |
+| HID2AMI APP          |    v1.7.4     |   see release notes below            |
   
+
+Features of fw v1.7.4:
+- Added support for Logitech M560 Wireless Mouse
+- 	Added support for Targus MiniMouse
+- 	Added multiple HID device interface support (greatly improves compatibility)
+-	Added preliminary Microsoft Wireless Laser Mouse 6000 support
+- Added preliminary support to XBOX ONE gamepads
 
 Features of fw v1.7.3:
 - Added custom free mapping of first 4 buttons of Gamepad. By pressing 4buttons+LeftStickDown the board enters in mapping mode; pressing in turn single buttons maps them on Amiga1->Amiga2->Up->Down
@@ -90,15 +97,20 @@ Features of fw v1.5.2:
 |      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
+| Mouse            | Logitech Wreless Mouse M560        |  v1.7.4    |  YES    | Not HID protocol compliant           |![MOU3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M560_200.jpg)|
 | Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not HID protocol compliant           |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)|
+| Mouse            | Targus Mini Mouse                  |  v1.7.4    |  YES    | Not HID protocol compliant           |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.66.Targus.Mouse.Mini_200.jpg)|
 | Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade.stick_200.jpg)|
 | Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
 | Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
 | Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
 | Gamepad          | Logitech PS2 Wireless              |  v1.3.0    |  YES    | Both digital and analog mode         |![WPS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.PS2.Wireless_200.jpg)|
+| Gamepad          | Logitech Rumble Gamepad F510       |  v1.6.0    |  YES    | Both dinput and XBOX mode            |![WRP3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Rumble.Gamepad.F510_200.jpg)|
 | Gamepad          | Logitech Rumblepad 2               |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.RumblePad2_200.jpg)|
 | Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
+| Gamepad          | Logitech Wireless Gamepad F710     |  v1.6.0    |  PARTIAL| Only XBOX mode(forecast fix in 1.8.0)|![WRP4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Wireless.Gamepad.F710_200.jpg)|
 | Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)|
+| Gamepad          | Sony PS2 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS2_200.jpg)|
 | Gamepad          | SNES Usb Clone                     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SNES.CLONE_200.jpg)|
 | Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Firestorm_200.jpg)|
 | Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
