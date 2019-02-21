@@ -92,6 +92,8 @@ Features of fw v1.5.2:
 - Self discover and mapping of pad buttons (limited to first 6);
 - Easy firmware upgrade through (windows) PC USB interface;
 
+## **COMPATIBILITY LIST**
+
 (!) HID2AMI has been tested against a number of HID compliant Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. Thanks !
 
 |      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
