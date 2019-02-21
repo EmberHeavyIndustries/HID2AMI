@@ -52,8 +52,11 @@ Here you can find a quick user guide, describing basic operations and the availa
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.7.4     |   see release notes below            |
+| HID2AMI APP          |    v1.8.0     |   see release notes below            |
   
+Features of fw v1.8.0:
+- Added support for PS3 and PS4 pad protocol (at the moment works with compatible pads only)
+- Reworked 12-bit XY axis support for gaming/precision mice
 
 Features of fw v1.7.4:
 - Added support for Logitech M560 Wireless Mouse
