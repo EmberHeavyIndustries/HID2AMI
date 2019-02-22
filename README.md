@@ -55,8 +55,10 @@ Here you can find a quick user guide, describing basic operations and the availa
 | HID2AMI APP          |    v1.8.0     |   see release notes below            |
   
 Features of fw v1.8.0:
-- Added support for PS3 and PS4 pad protocol (at the moment works with compatible pads only)
+- Added support for PS3 and PS4 3rd party compatible pads 
+- Added support for original Dual Shock 4 PS4 pads
 - Reworked 12-bit XY axis support for gaming/precision mice
+- Improved compatibility with some Logitech gaming mice
 
 Features of fw v1.7.4:
 - Added support for Logitech M560 Wireless Mouse
