@@ -97,9 +97,22 @@ Features of fw v1.5.2:
 - Self discover and mapping of pad buttons (limited to first 6);
 - Easy firmware upgrade through (windows) PC USB interface;
 
+
+
+### **READ CAREFULY BEFORE CONNECTING A PAD TO YOUR AMIGA**
+
+ **BE AWARE** that when you connect a peripheral to the Amiga's mouse/joy port, the power supply or that peripheral comes from/through that port itself. **Be aware that improperly connecting an "high" power-demanding device could lead to overheat or even damage the Amiga joy/mouse port**. 
+
+If you connect controllers with rechargeable batteries, be absolutely confident that the battery has been fully charged **BEFORE** connecting to the Amiga, or the charging current flowing from the joy/mouse port to your controller's battery could seriosly damageyour Commodore  !
+
+ You are usign HID2AMI at your own risk: I will either not be liable nor responsible for any damage you could cause to your hardware for any use or misuse of HID2AMI together with your systems.  
+
+
+
 ## **COMPATIBILITY LIST**
 
 (!) HID2AMI has been tested against a number of HID compliant Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. Thanks !
+
 
 |      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
