@@ -99,13 +99,15 @@ Features of fw v1.5.2:
 
 
 
-### **READ CAREFULLY BEFORE CONNECTING A PAD TO YOUR AMIGA**
+## **READ CAREFULLY BEFORE CONNECTING ANY PAD/MOUSE TO YOUR AMIGA**
 
  **BE AWARE** that when you connect a peripheral to the Amiga's mouse/joy port, the power supply or that peripheral comes from/through that port itself. **Be aware that improperly connecting an "high" power-demanding device could lead to overheat or even damage the Amiga joy/mouse port**. 
 
-If you connect controllers with rechargeable batteries, be absolutely confident that the battery has been fully charged **BEFORE** connecting to the Amiga, or the charging current flowing from the joy/mouse port to your controller's battery could seriosly damageyour Commodore  !
+If you connect controllers with rechargeable batteries, **be absolutely confident that the battery has been fully charged**  **BEFORE** connecting it to the Amiga, or the charging current flowing from the joy/mouse port to your controller's battery could seriosly damage your Commodore  !
 
  You are usign HID2AMI at your own risk: I will either not be liable nor responsible for any damage you could cause to your hardware for any use or misuse of HID2AMI together with your systems.  
+
+
 
 
 
