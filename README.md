@@ -99,7 +99,7 @@ Features of fw v1.5.2:
 
 
 
-### **READ CAREFULY BEFORE CONNECTING A PAD TO YOUR AMIGA**
+### **READ CAREFULLY BEFORE CONNECTING A PAD TO YOUR AMIGA**
 
  **BE AWARE** that when you connect a peripheral to the Amiga's mouse/joy port, the power supply or that peripheral comes from/through that port itself. **Be aware that improperly connecting an "high" power-demanding device could lead to overheat or even damage the Amiga joy/mouse port**. 
 
