@@ -136,7 +136,7 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
 | Joystick         | SEGA VirtuaStick High Grade        |  v1.8.0    |  YES    | PS3 mode - Stick is digital only     |![SEG1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.VirtuaStickHighGrade_200.jpg)|
 | Gamepad          | Sony PS1 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS1.PAD_200.jpg)|
 | Gamepad          | Sony PS2 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS2_200.jpg)|
-| Gamepad          | Sony PS2 original pad              |  v1.8.1    |  YES    | With DUAL USB adapter                |![THFS7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS2.Dual.Adaptor.jpg)|
+| Gamepad          | Sony PS2 original pad              |  v1.8.1    |  YES    | With DUAL USB adapter (1)               |![THFS7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS2.Dual.Adaptor.jpg)|
 | Gamepad          | Sony PS-ONE original pad           |  v1.6.0    |  YES    | With USB adapter                     |![THFS6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PSONE.PAD_200.jpg)|
 | Gamepad          | Sony Dual Shock 4 PS4 original pad |  v1.8.0    |  YES    |**WARNING! If using the wired version, be sure its internal battery is 100% charged before connecting to your Amiga** |![SDS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SONY.DS4.ORIGINAL_200.jpg)|
 | Gamepad          | SNES Usb Clone                     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SNES.CLONE_200.jpg)|
@@ -144,6 +144,8 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
 | Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
 | Gamepad          | XBOX 360 Clone                     |  v1.6.0    |  YES    | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) 
 | Gamepad          | XBOX Elite                         |  future    |  NO     | Not HID protocol compliant           |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
+ 
+ (1) Plug the pad in adaptor #1 port
  
 ## **DEVELOPMENT**
 
