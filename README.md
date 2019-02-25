@@ -146,6 +146,7 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
 | Gamepad          | XBOX Elite                         |  future    |  NO     | Not HID protocol compliant           |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
  
  (1) Plug the pad in adaptor #1 port
+ 
  (2) **WARNING! If using the wired version, be sure its internal battery is 100% charged before connecting to your Amiga**
  
 ## **DEVELOPMENT**
