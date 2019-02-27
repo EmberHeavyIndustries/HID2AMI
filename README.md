@@ -52,8 +52,10 @@ Here you can find a quick user guide, describing basic operations and the availa
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.8.0     |   see release notes below            |
+| HID2AMI APP          |    v1.8.4     |   see release notes below            |
   
+Features of fw v1.8.4:
+- Added automatic recognition and management of hw customized report Id (improves compatibility)
 Features of fw v1.8.0:
 - Added support for PS3 and PS4 3rd party compatible pads 
 - Added support for original Dual Shock 4 PS4 pads
