@@ -151,7 +151,7 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
  
  (1) Plug the pad in adaptor #1 port
  
- (2) **WARNING! If using the wired version, be sure its internal battery is 100% charged before connecting to your Amiga**
+ (2) **WARNING! If using the wired version, either remove internal battery (suggested) or be sure it is 100% charged before connecting to your Amiga**
  
 ## **DEVELOPMENT**
 
