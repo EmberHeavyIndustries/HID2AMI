@@ -44,7 +44,7 @@ Here you can find a quick user guide, describing basic operations and the availa
 | HID2AMI DeLuxe |    v1.0.0     |   output lines driven by mosfet       |
   
  
-  *Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
+  *Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue/black). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
 
 
 ## **FIRMWARE**
