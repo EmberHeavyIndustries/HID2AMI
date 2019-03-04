@@ -57,6 +57,7 @@ Here you can find a quick user guide, describing basic operations and the availa
  
 Features of fw v1.8.6:
 - Added support for Logitech G502 and G5 Gaming mice
+
 Features of fw v1.8.5:
 - Added automatic recognition and management of hw customized report Id (improves compatibility)
 
