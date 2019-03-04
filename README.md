@@ -52,8 +52,11 @@ Here you can find a quick user guide, describing basic operations and the availa
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.8.5     |   see release notes below            |
-  
+| HID2AMI APP          |    v1.8.6     |   see release notes below            |
+ 
+ 
+Features of fw v1.8.6:
+- Added support for Logitech G502 and G5 Gaming mice
 Features of fw v1.8.5:
 - Added automatic recognition and management of hw customized report Id (improves compatibility)
 
@@ -122,6 +125,7 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
 |      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
+| Mouse            | Logitech G502 Gaming Mouse         |  v1.8.6    |  YES    | Not 100% HID protocol compliant      |![MOU6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G502_200.jpg)|
 | Mouse            | Logitech Wireless Mouse M560       |  v1.7.4    |  YES    | Not 100% HID protocol compliant      |![MOU3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M560_200.jpg)|
 | Mouse            | Logitech Wireless Mouse M590       |  v1.8.4    |  YES    | Not 100% HID protocol compliant      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M590_200.jpg)|
 | Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not 100% HID protocol compliant      |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)|
