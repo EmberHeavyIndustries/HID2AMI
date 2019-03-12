@@ -52,8 +52,14 @@ Here you can find a quick user guide, describing basic operations and the availa
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.8.6     |   see release notes below            |
+| HID2AMI APP          |    v1.8.7     |   see release notes below            |
  
+ 
+ 
+ 
+Features of fw v1.8.7:
+- Added support for Logitech MX510 MX518 G305 G203 G403 G603 G703 G903 gaming mice
+- Added support for SteelSeriec Rival 110 and 600 Gaming mice
  
 Features of fw v1.8.6:
 - Added support for Logitech G502, G5 and G Pro Gaming mice
