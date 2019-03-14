@@ -20,4 +20,4 @@ In order to submit an useful dump to the author, a minimal setup comprise:
  - 7) Send the file to the author
  
  
- ![HID2AMI](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/DumpHID.jpg)
+ ![HID2AMI](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/DumpHID.jpg)
