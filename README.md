@@ -310,7 +310,7 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 |R19    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
 |R20    | 0k       |   SHORT          |  M805      | MANDATORY|
 |       |          |                  |            |          |
-|U1     | F105RBT6 |   STM32F105RBT6  |  TQFP64    | MANDATORY|
+|U1     | F105RBT6 |   STM32F105RBT6  |  LQFP64    | MANDATORY|
 |       |          |                  |            |          |
 |X1     |          |   USB-CONNECTOR  |            | MANDATORY|
 |X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
