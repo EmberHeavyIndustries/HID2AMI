@@ -133,6 +133,7 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
 
 (!) HID2AMI has been tested against a number of HID compliant Mice and Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. In case your device is not handled properly, you ca submit the author an HID dump to be investigated.  
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
+
 Thanks !
 
 
