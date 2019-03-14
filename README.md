@@ -16,7 +16,7 @@ Donors will be added to the "firmware beta release" channel, and will receive al
 (*) At the moment it has been tested against dozens of different gamepdas,  but working for each and every existing Gamepad cannot be guaranteed; nevertheless, if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
 
 
-[HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID.DUMP.HOWTO.md)
+[HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/Docs/hid.dump.howto.md)
 
 
 
