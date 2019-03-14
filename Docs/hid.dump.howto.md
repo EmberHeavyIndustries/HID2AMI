@@ -7,7 +7,7 @@
 In order to submit an useful dump to the author, a minimal setup comprise:
 
  - A windows OS machine
- - Free USB Tree View tool (download from here ![USBTREEVIEW](https://www.uwe-sieber.de/usbtreeview_e.html#download))
+ - Free USB Tree View tool [USBTREEVIEW](https://www.uwe-sieber.de/usbtreeview_e.html#download)
 
 ## **INSTRUCTIONS**
 
