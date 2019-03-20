@@ -2,7 +2,7 @@
 
 **If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "Buying something" from money transfer frontpage).** 
 
-Donors will be added to the "firmware beta release" channel, and will receive all intermediate beta releases of firmware updates, between major "official" releases. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
+Donors of at least 5 EUR will receive the latest firmware revision available at the moment of request; donors of 10 EUR or more will also be added to the "firmware beta release" channel, and will receive all intermediate beta releases and all subsequent firmware updates. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
 
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/EmberHeavyIndustries)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
