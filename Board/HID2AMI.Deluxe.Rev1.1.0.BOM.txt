@@ -1,0 +1,54 @@
+|Part   |   Value  |     Device       |  Package   | Rev 1.0  |
+|-------|--------- |------------------|------------|----------|
+|BOOT0  |   JP2E   |        JP1       |   JUMPER   |          |
+|PA9BOOT|   JP2E   |        JP2       |   JUMPER   |          |
+|       |          |                  |            |          |
+|C1     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C2     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C3     | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C4     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C5     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C6     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C7     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C8     | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C9     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C10    |  22p     |   C-EUC0805      |  C0805     | MANDATORY|
+|C11    |  22p     |   C-EUC0805      |  C0805     | MANDATORY|
+|C12    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C13    | 10u      |   C-EUC1206      |  C1206     | Optional |
+|C14    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
+|C15    | 100n     |   C-EUC0805      |  C0805     | Optional |
+|C16    | 100n     |   C-EUC0805      |  C0805     | Optional |
+|       |          |                  |            |          |
+|IC1    |LM1117-3.3|   LM1117MPX-3.3  |  SOT223    | MANDATORY|
+|       |          |                  |            |          |
+|LED1   |          |   LEDSML0805     |  SML0805   | Optional |
+|LED2   |          |   LEDSML0805     |  SML0805   | Optional |
+|       |          |                  |            |          |
+|Q1     | 8MHz     |   CRYSTALHC49S   |  HC49/S    | MANDATORY|
+|       |          |                  |            |          |
+|Q2     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q3     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q4     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q5     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q6     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q7     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|Q8     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
+|       |          |                  |            |          |
+|R1     | ---      |   --             |  --        | NA       |
+|R2     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R3     | 10k-33k  |   R-EU_M0805     |  M805      | Optional |
+|R4     | 10k-33k  |   R-EU_M0805     |  M805      | Optional |
+|R5     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R6     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R7     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R8     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R9     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R10    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|R11    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
+|       |          |                  |            |          |
+|U1     | F105RBT6 |   STM32F105RBT6  |  LQFP64    | MANDATORY|
+|       |          |                  |            |          |
+|X1     |          |   USB-CONNECTOR  |            | MANDATORY|
+|X2     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
+|       |          |                  |            |          |
