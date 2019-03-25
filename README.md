@@ -240,7 +240,9 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 #### **SCHEMATICS**
 
-[HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.schermatics.pdf)
+[HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
+
+[HID2AMI v1.1.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
 
 #### **REFERENCE LAYOUTS**
 
@@ -264,20 +266,26 @@ LED2 is the "power on" indicator; if lit then your board gets correct +5V and +3
 
 For both LED1 and LED2, the suggested value for their respective limiting current resistors is 10k, but you can safely experiment any value in range 1k-47k depending on the led components characteristics and light efficiency (and your personal taste)
 
-[Reference BOMt v1.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.BOM.txt)
+[Reference BOM v1.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.BOM.txt)
 
-[Reference BOMt v1.1.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.BOM.txt)
+[Reference BOM v1.1.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.BOM.txt)
 
 
 ### **GERBER FILES**
 
 [HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
 
+[HID2AMI v1.1.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist_2019-02-28.zip)
+
 ### **EAGLE SCHEMATICS AND BOARD LAYOUT**
 
 [HID2AMI v1.0.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
 
 [HID2AMI v1.0.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.brd)
+
+[HID2AMI v1.1.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
+
+[HID2AMI v1.1.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.brd)
 
 ### **BOOTLOADER**
 
