@@ -47,7 +47,7 @@ Here you can find a quick user guide, describing basic operations and the availa
 |   Flavour      | Current ver.  |                Features               |
 | -------------- | ------------- | ------------------------------------- |
 | HID2AMI LITE   |    v1.0.0     |   direct output to Amiga port lines   |
-| HID2AMI DeLuxe |    v1.0.0     |   output lines driven by mosfet       |
+| HID2AMI DeLuxe |    v1.1.0     |   output lines driven by mosfet       |
   
  
   *Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue/black). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
@@ -248,6 +248,10 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [Reference Layout v1.0.0 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.bottom.pdf)
 
+[Reference Layout v1.1.0 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.layout.top.pdf)
+
+[Reference Layout v1.1.0 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.layout.bottom.pdf)
+
 #### **BILL OF MATERIALS**
 
 Components noted as "Optional" fulfil the general purpose STM32F1x reference design; generally speaking they can be safely omitted from the assembly of HID2AMI. Consider soldering any of them in case you experience some instability of any kind (never experienced so far).
@@ -260,63 +264,10 @@ LED2 is the "power on" indicator; if lit then your board gets correct +5V and +3
 
 For both LED1 and LED2, the suggested value for their respective limiting current resistors is 10k, but you can safely experiment any value in range 1k-47k depending on the led components characteristics and light efficiency (and your personal taste)
 
-|Part   |   Value  |     Device       |  Package   |   Note   | 
-|-------|--------- |------------------|------------|----------|
-|BOOT0  |   JP2E   |        JP1       |   JUMPER   |          |
-|PA9BOOT|   JP2E   |        JP2       |   JUMPER   |          |
-|       |          |                  |            |          |
-|C1     | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C2     | 10u      |   C-EUC1206      |  C1206     | Optional |
-|C3     | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C4     | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C5     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
-|C6     | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
-|C7     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
-|C8     | 22p      |   C-EUC0805      |  C0805     | MANDATORY|
-|C9     | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C10    | 10u      |   C-EUC1206      |  C1206     | Optional |
-|C11    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
-|C12    | 100n     |   C-EUC0805      |  C0805     | MANDATORY|
-|C13    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C14    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C15    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|C16    | 100n     |   C-EUC0805      |  C0805     | Optional |
-|       |          |                  |            |          |
-|IC1    |LM1117-3.3|   LM1117MPX-3.3  |  SOT223    | MANDATORY|
-|       |          |                  |            |          |
-|LED1   |          |   LEDSML0805     |  SML0805   | Optional |
-|LED2   |          |   LEDSML0805     |  SML0805   | Optional |
-|       |          |                  |            |          |
-|Q1     | 8MHz     |   CRYSTALHC49S   |  HC49/S    | MANDATORY|
-|       |          |                  |            |          |
-|Q2     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q3     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q4     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q5     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q6     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q7     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|Q8     | BSS138   |   BSS138         |  SOT23     | MANDATORY|
-|       |          |                  |            |          |
-|R1     | 0k       |   SHORT          |  M805      | MANDATORY|
-|R2     | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R3     | 0k       |   SHORT          |  M805      | MANDATORY|
-|R4     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
-|R5     | 1k-10k   |   R-EU_M0805     |  M805      | Optional |
-|R6-R12 | ---      |   --             |  --        | NA       |
-|R13    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R14    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R15    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R16    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R17    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R18    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R19    | 100k     |   R-EU_M0805     |  M805      | MANDATORY|
-|R20    | 0k       |   SHORT          |  M805      | MANDATORY|
-|       |          |                  |            |          |
-|U1     | F105RBT6 |   STM32F105RBT6  |  LQFP64    | MANDATORY|
-|       |          |                  |            |          |
-|X1     |          |   USB-CONNECTOR  |            | MANDATORY|
-|X3     |          |   F09HP D-SUB9   |  F09HP     | MANDATORY|
-|       |          |                  |            |          |
+[Reference BOMt v1.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.BOM.txt)
+
+[Reference BOMt v1.1.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.BOM.txt)
+
 
 ### **GERBER FILES**
 
