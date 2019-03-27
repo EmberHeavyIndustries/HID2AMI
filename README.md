@@ -165,8 +165,7 @@ Thanks !
 | Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
 | Joystick         | HORI FightingStick Mini            |  v1.8.0    |  YES    | Both PS3 and PS4 mode                |![HFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HORI.FightingStick_200.jpg)|
 | Gamepad          | Logitech PS2 Wireless              |  v1.3.0    |  YES    | Both digital and analog mode         |![WPS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.PS2.Wireless_200.jpg)|
-| Gamepad          | Logitech Rumble Gamepad F310       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP5](https://raw.
-.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.F310_200.jpg)|
+| Gamepad          | Logitech Rumble Gamepad F310       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.F310_200.jpg)|
 | Gamepad          | Logitech Rumble Gamepad F510       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Rumble.Gamepad.F510_200.jpg)|
 | Gamepad          | Logitech Rumblepad 2               |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.RumblePad2_200.jpg)|
 | Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
