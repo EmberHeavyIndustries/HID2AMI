@@ -20,7 +20,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 
 ## **REV 1.1 board** 
-![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.3D_20.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.top_20.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.bottom_20.jpg)
+![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.3D_10.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.top_10.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.bottom_10.jpg)
 
 ## **HOW DOES IT WORK** (in brief):
 
