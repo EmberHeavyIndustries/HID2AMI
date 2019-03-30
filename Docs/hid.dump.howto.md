@@ -35,11 +35,16 @@ In order to submit an useful dump to the author, a minimal setup comprise:
  - 6) Stop capturing session, save the recorded data (in a file with *.ulz extension) 
  - 7) Send both the files to the author
  
- Figure 1)
+ Usb Properties pane
  ![FIGURE1](http://www.usblyzer.com/img/tour/usb-properties-panel-bg.png)
  
  Sample USB Properties dump file in text format
 ![USBPROP](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Microsoft%20IntelliMouse.%20Optical%20-%20HID.txt)
+
+
+
+Capture Pane
+![CAPTURE](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/capture.jpg)
 
 Sample Capture "Ulz" file
 ![ULZFILE](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Microsoft%20IntelliMouse.%20Optical.ulz)
