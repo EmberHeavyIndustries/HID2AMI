@@ -1,0 +1,111 @@
+Connection Status Device connected 
+Current Configuration 1 
+Speed Full (12 Mbit/s) 
+Device Address 1 
+Number Of Open Pipes 1 
+
+Device Descriptor Microsoft IntelliMouse® Optical
+Offset Field Size Value Description 
+0 bLength 1 12h  
+1 bDescriptorType 1 01h Device 
+2 bcdUSB 2 0110h USB Spec 1.1 
+4 bDeviceClass 1 00h Class info in Ifc Descriptors 
+5 bDeviceSubClass 1 00h  
+6 bDeviceProtocol 1 00h  
+7 bMaxPacketSize0 1 08h 8 bytes 
+8 idVendor 2 045Eh  
+10 idProduct 2 0039h  
+12 bcdDevice 2 0121h 1.21 
+14 iManufacturer 1 01h "Microsoft" 
+15 iProduct 1 02h "Microsoft IntelliMouse. Optical" 
+16 iSerialNumber 1 00h  
+17 bNumConfigurations 1 01h  
+
+Configuration Descriptor 1 Bus Powered, 100 mA
+Offset Field Size Value Description 
+0 bLength 1 09h  
+1 bDescriptorType 1 02h Configuration 
+2 wTotalLength 2 0022h  
+4 bNumInterfaces 1 01h  
+5 bConfigurationValue 1 01h  
+6 iConfiguration 1 00h  
+7 bmAttributes 1 A0h Bus Powered, Remote Wakeup 
+ 4..0: Reserved  ...00000   
+ 5: Remote Wakeup  ..1.....  Yes 
+ 6: Self Powered  .0......  No, Bus Powered 
+ 7: Reserved (set to one)
+(bus-powered for 1.0)  1.......   
+8 bMaxPower 1 32h 100 mA 
+
+Interface Descriptor 0/0 HID, 1 Endpoint
+Offset Field Size Value Description 
+0 bLength 1 09h  
+1 bDescriptorType 1 04h Interface 
+2 bInterfaceNumber 1 00h  
+3 bAlternateSetting 1 00h  
+4 bNumEndpoints 1 01h  
+5 bInterfaceClass 1 03h HID 
+6 bInterfaceSubClass 1 01h Boot Interface 
+7 bInterfaceProtocol 1 02h Mouse 
+8 iInterface 1 00h  
+
+HID Descriptor 
+Offset Field Size Value Description 
+0 bLength 1 09h  
+1 bDescriptorType 1 21h HID 
+2 bcdHID 2 0100h 1.00 
+4 bCountryCode 1 00h  
+5 bNumDescriptors 1 01h  
+6 bDescriptorType 1 22h Report 
+7 wDescriptorLength 2 0048h 72 bytes 
+
+Endpoint Descriptor 81 1 In, Interrupt, 10 ms
+Offset Field Size Value Description 
+0 bLength 1 07h  
+1 bDescriptorType 1 05h Endpoint 
+2 bEndpointAddress 1 81h 1 In 
+3 bmAttributes 1 03h Interrupt 
+ 1..0: Transfer Type  ......11  Interrupt 
+ 7..2: Reserved  000000..   
+4 wMaxPacketSize 2 0004h 4 bytes 
+6 bInterval 1 0Ah 10 ms 
+
+Interface 0 HID Report Descriptor Mouse
+Item Tag (Value) Raw Data 
+Usage Page (Generic Desktop) 05 01  
+Usage (Mouse) 09 02  
+Collection (Application) A1 01  
+    Usage (Pointer) 09 01  
+    Collection (Physical) A1 00  
+        Usage Page (Button) 05 09  
+        Usage Minimum (Button 1) 19 01  
+        Usage Maximum (Button 5) 29 05  
+        Logical Minimum (0) 15 00  
+        Logical Maximum (1) 25 01  
+        Report Size (1) 75 01  
+        Report Count (5) 95 05  
+        Input (Data,Var,Abs,NWrp,Lin,Pref,NNul,Bit) 81 02  
+        Report Size (3) 75 03  
+        Report Count (1) 95 01  
+        Input (Cnst,Ary,Abs) 81 01  
+        Usage Page (Generic Desktop) 05 01  
+        Usage (X) 09 30  
+        Usage (Y) 09 31  
+        Usage (Wheel) 09 38  
+        Logical Minimum (-127) 15 81  
+        Logical Maximum (127) 25 7F  
+        Report Size (8) 75 08  
+        Report Count (3) 95 03  
+        Input (Data,Var,Rel,NWrp,Lin,Pref,NNul,Bit) 81 06  
+    End Collection C0  
+    Usage Page 05 FF  
+    Usage 09 02  
+    Logical Minimum (0) 15 00  
+    Logical Maximum (1) 25 01  
+    Report Size (1) 75 01  
+    Report Count (1) 95 01  
+    Feature (Data,Var,Abs,NWrp,Lin,NPrf,NNul,NVol,Bit) B1 22  
+    Report Size (7) 75 07  
+    Report Count (1) 95 01  
+    Feature (Cnst,Ary,Abs,NWrp,Lin,Pref,NNul,NVol,Bit) B1 01  
+End Collection C0  
