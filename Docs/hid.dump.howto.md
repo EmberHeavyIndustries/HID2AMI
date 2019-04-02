@@ -8,7 +8,7 @@ In order to submit an useful dump to the author, a minimal setup comprise:
 
  - A windows OS machine
  - Free USB Tree View tool [USBTREEVIEW](https://www.uwe-sieber.de/usbtreeview_e.html#download)
- - For advanced analysis: USBLyzer software (free trial can be d/loaded form [HERE](http://www.usblyzer.com/download.htm)
+ - For advanced analysis: USBLyzer software (free trial can be d/loaded from [HERE](http://www.usblyzer.com/download.htm))
 
 ## **INSTRUCTIONS for USBTREEVIEW**
 
