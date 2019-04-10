@@ -31,10 +31,11 @@ Default pointer speed, recognized by your Amiga, depends upon the connected mous
 HID2AMI allows you to dynamically adjust the pointer speed, slowing/speeding-up within three different degrees.
 
 - To dynamically adjust pointer speed (it can be done at any moment): 
+  - Press all three mouse button together: running led stops blinking and the board enters pointer setting mode
   - Roll your mousewheel forward to slowdown the pointer travel speed by one step (0% - 25% - 50%)
   - Roll your mousewheel backwards to speedup the pointer travel speed by one step (0% - 25% - 50%)
+  - Press again all three mouse buttons together: your current settings will be saved and th eboard will return in default running mode
 
-- **To save your speed preferences** in HID2AMI internal flash, simply **push all three buttons (L-R-WHEEL) together at the same time**: done !
 
 
 HID2AMI will store and retrieve your settings next time you will connect the mouse. If you have different mice brand/models, HID2AMI automatically saves a dedicated profile for each one, and automatically retrieves it when that particular mouse is connected.
