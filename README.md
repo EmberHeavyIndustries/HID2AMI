@@ -61,7 +61,7 @@ Here you can find a quick user guide, describing basic operations and the availa
  - Changed mousewheel behaviour: 
    - 1. Defaults to no action [hint: probably adding freemouse support in one of next updates]
    - 2. Pressing all three mouse buttons together, board enters "pointer speed setting" mode [Led stops blinking->firmly lit]
-	  - 3. Rolling Mousewheel now changes pointer speed / DPI sensitivity
+   - 3. Rolling Mousewheel now changes pointer speed / DPI sensitivity
    - 4. Pressing all three button together again will save current setting and return to default behaviour [Led starts blinking again]
  - Added support for Logitech MK250
  - Added support for RAPOO 5G Wireless Mouse
