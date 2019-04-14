@@ -38,6 +38,72 @@ Here you can find a quick user guide, describing basic operations and the availa
 
 [HID2AMI QUICK USER GUIDE](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Quick.User.Guide.md)
 
+
+
+
+## **COMPATIBILITY LIST**
+
+(!) HID2AMI has been tested against a number of HID compliant Mice and Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. In case your device is not handled properly, you ca submit the author an HID dump to be investigated.  
+[HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
+
+Thanks !
+
+
+|      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
+| ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
+| Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
+| Mouse            | Logitech B100                      |  v1.0.0    |  YES    |                                      |![MOUF](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.B100_200.jpg)|
+| Mouse            | Logitech G5   Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G5_200.jpg)|
+| Mouse            | Logitech G502 Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G502_200.jpg)|
+| Mouse            | Logitech G Pro Gaming Mouse        |  v1.8.6    |  YES    |                                      |![MOU8](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.GPro_200.jpg)|
+| Mouse            | Logitech MX510 MX518 G305 G203 G300 G403 G603 G703 G903 RX250       |  v1.8.7    |  YES    |                                      |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.logitech.gmice_200.jpg)|
+| Mouse            | Logitech Performance MX BT         |  v1.8.7    |  YES    |                                      |![MOU10](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Performance.MX_200.jpg)|
+| Mouse            | Logitech Wireless Mouse M220, M305, M560    |  v1.7.4    |  YES    |                                      |![MOU3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M560_200.jpg)|
+| Mouse            | Logitech Wireless Mouse M590       |  v1.8.4    |  YES    |                                      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M590_200.jpg)|
+| Mouse            | Logitech Wireless Mouse Mx Master  |  v1.8.4    |  YES    |                                      |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.logitech-mx-master_200.jpg)|
+| Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not 100% HID protocol compliant      |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)| 
+| Mouse            | Microsoft Intellimouse Explorer    |  v1.8.4    |  YES    | Wireless explorer series             |![MOU5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Microsoft.Intellimouse.Explorer_200.jpg)|
+| Mouse            | Microsoft Wireless Laser 6000, 7000|  v1.8.4    |  YES    | Wireless explorer series             |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.MS.Laser.mouse.6000_200.jpg)|
+| Mouse            | Rapoo 7100P  Wireless Mouse        |  v1.8.6    |  YES    |                                      |![MOUE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Rapoo.Wireless_200.jpg)|
+| Mouse            | Steelseries Rival 100 and 110      |  v1.8.6    |  YES    |                                      |![MOU9](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.100_200.jpg)|
+| Mouse            | Steelseries Rival 310              |  v1.8.6    |  YES    |                                      |![MOUA](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.310_200.jpg)|
+| Mouse            | Steelseries Rival 500              |  v1.8.6    |  YES    |                                      |![MOUB](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.500_200.jpg)|
+| Mouse            | Steelseries Rival 600              |  v1.8.7    |  YES    |                                      |![MOUC](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.600_200.jpg)|
+| Mouse            | Targus Mini Mouse                  |  v1.7.4    |  YES    | Not 100% HID protocol compliant      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Targus.Mouse.Mini_200.jpg)|
+| Mouse            | Trust Wireless 18519 YVI           |  v1.8.8    |  YES    |                                      |![MOU11](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Trust.18519.Wireless_200.jpg)|
+| Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade.stick_200.jpg)|
+| Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
+| Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
+| Gamepad          | Dual Wireless PS3-USB              |  v1.8.0    |  YES    | Both digital and analog mode         |![CHN2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Dual.Wireless.PS2.jpg)|
+| Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
+| Joystick         | HORI FightingStick Mini            |  v1.8.0    |  YES    | Both PS3 and PS4 mode                |![HFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HORI.FightingStick_200.jpg)|
+| Gamepad          | Logitech PS2 Wireless              |  v1.3.0    |  YES    | Both digital and analog mode         |![WPS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.PS2.Wireless_200.jpg)|
+| Gamepad          | Logitech Rumble Gamepad F310       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.F310_200.jpg)|
+| Gamepad          | Logitech Rumble Gamepad F510       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Rumble.Gamepad.F510_200.jpg)|
+| Gamepad          | Logitech Rumblepad 2               |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.RumblePad2_200.jpg)|
+| Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
+| Gamepad          | Logitech Wireless Gamepad F710     |  v1.8.0    |  YES    | Both PC and XBOX 360 mode            |![WRP4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Wireless.Gamepad.F710_200.jpg)|
+| Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)|
+| Gamepad          | RetroLink Classic Controller USB   |  v1.8.0    |  YES    | (Sega Saturn Style)                  |![SEGASAT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.retrolink.classic_200.jpg)|
+| Joystick         | SEGA VirtuaStick High Grade        |  v1.8.0    |  YES    | PS3 mode - Stick is digital only     |![SEG1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.VirtuaStickHighGrade_200.jpg)|
+| Gamepad          | Sony PS1 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS1.PAD_200.jpg)|
+| Gamepad          | Sony PS2 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS2_200.jpg)|
+| Gamepad          | Sony PS2 original pad              |  v1.8.1    |  YES    | With DUAL USB adapter (1)            |![THFS7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS2.Dual.Adaptor.jpg)|
+| Gamepad          | Sony PS-ONE original pad           |  v1.6.0    |  YES    | With USB adapter                     |![THFS6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PSONE.PAD_200.jpg)|
+| Gamepad          | Sony Dual Shock 4 PS4 original pad |  v1.8.0    |  YES    | **WARNING !! (2)**                   |![SDS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SONY.DS4.ORIGINAL_200.jpg)|
+| Gamepad          | SNES Usb Clone                     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SNES.CLONE_200.jpg)|
+| Joystick         | Speedlink Competition PRO USB      |  v1.8.0    |  YES    |                                      |![SLNK1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SPEEDLINK_200.jpg)|
+| Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Firestorm_200.jpg)|
+| Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
+| Gamepad          | XBOX 360 Clone                     |  v1.6.0    |  YES    | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) 
+| Gamepad          | XBOX Elite                         |  future    |  NO     | Not HID protocol compliant           |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
+ 
+ (1) Plug the pad in adaptor #1 port
+ 
+ (2) **WARNING! If using the wired version, either remove internal battery (suggested) or be sure it is 100% charged before connecting to your Amiga**
+
+
+
  ## **HW AND SCHEMATICS**
   
 |   Flavour      | Current ver.  |                Features               |
@@ -138,69 +204,6 @@ If you connect controllers with rechargeable batteries, **be absolutely confiden
  You are usign HID2AMI at your own risk: I will either not be liable nor responsible for any damage you could cause to your hardware for any use or misuse of HID2AMI together with your systems.  
 
 
-
-
-
-## **COMPATIBILITY LIST**
-
-(!) HID2AMI has been tested against a number of HID compliant Mice and Gamepads; the following compatibility list keeps track of tested peripherals. If you tested your mice/Gamepads and want to contribute to the list, simply send an email to the author with your compatibility results. In case your device is not handled properly, you ca submit the author an HID dump to be investigated.  
-[HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
-
-Thanks !
-
-
-|      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
-| ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
-| Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
-| Mouse            | Logitech B100                      |  v1.0.0    |  YES    |                                      |![MOUF](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.B100_200.jpg)|
-| Mouse            | Logitech G5   Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G5_200.jpg)|
-| Mouse            | Logitech G502 Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G502_200.jpg)|
-| Mouse            | Logitech G Pro Gaming Mouse        |  v1.8.6    |  YES    |                                      |![MOU8](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.GPro_200.jpg)|
-| Mouse            | Logitech MX510 MX518 G305 G203 G300 G403 G603 G703 G903 RX250       |  v1.8.7    |  YES    |                                      |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.logitech.gmice_200.jpg)|
-| Mouse            | Logitech Performance MX BT         |  v1.8.7    |  YES    |                                      |![MOU10](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Performance.MX_200.jpg)|
-| Mouse            | Logitech Wireless Mouse M220, M305, M560    |  v1.7.4    |  YES    |                                      |![MOU3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M560_200.jpg)|
-| Mouse            | Logitech Wireless Mouse M590       |  v1.8.4    |  YES    |                                      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.M590_200.jpg)|
-| Mouse            | Logitech Wireless Mouse Mx Master  |  v1.8.4    |  YES    |                                      |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.logitech-mx-master_200.jpg)|
-| Mouse            | Microsoft Intellimouse             |  v1.6.0    |  YES    | Not 100% HID protocol compliant      |![MOU2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Intellimouse_200.jpg)| 
-| Mouse            | Microsoft Intellimouse Explorer    |  v1.8.4    |  YES    | Wireless explorer series             |![MOU5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Microsoft.Intellimouse.Explorer_200.jpg)|
-| Mouse            | Microsoft Wireless Laser 6000, 7000|  v1.8.4    |  YES    | Wireless explorer series             |![MOUD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.MS.Laser.mouse.6000_200.jpg)|
-| Mouse            | Rapoo 7100P  Wireless Mouse        |  v1.8.6    |  YES    |                                      |![MOUE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Rapoo.Wireless_200.jpg)|
-| Mouse            | Steelseries Rival 100 and 110      |  v1.8.6    |  YES    |                                      |![MOU9](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.100_200.jpg)|
-| Mouse            | Steelseries Rival 310              |  v1.8.6    |  YES    |                                      |![MOUA](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.310_200.jpg)|
-| Mouse            | Steelseries Rival 500              |  v1.8.6    |  YES    |                                      |![MOUB](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.500_200.jpg)|
-| Mouse            | Steelseries Rival 600              |  v1.8.7    |  YES    |                                      |![MOUC](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.600_200.jpg)|
-| Mouse            | Targus Mini Mouse                  |  v1.7.4    |  YES    | Not 100% HID protocol compliant      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Targus.Mouse.Mini_200.jpg)|
-| Mouse            | Trust Wireless 18519 YVI           |  v1.8.8    |  YES    |                                      |![MOU11](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Trust.18519.Wireless_200.jpg)|
-| Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade.stick_200.jpg)|
-| Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
-| Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
-| Gamepad          | Dual Wireless PS3-USB              |  v1.8.0    |  YES    | Both digital and analog mode         |![CHN2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Dual.Wireless.PS2.jpg)|
-| Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
-| Joystick         | HORI FightingStick Mini            |  v1.8.0    |  YES    | Both PS3 and PS4 mode                |![HFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HORI.FightingStick_200.jpg)|
-| Gamepad          | Logitech PS2 Wireless              |  v1.3.0    |  YES    | Both digital and analog mode         |![WPS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.PS2.Wireless_200.jpg)|
-| Gamepad          | Logitech Rumble Gamepad F310       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.F310_200.jpg)|
-| Gamepad          | Logitech Rumble Gamepad F510       |  v1.6.0    |  YES    | Both PC and XBOX 360 mode            |![WRP3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Rumble.Gamepad.F510_200.jpg)|
-| Gamepad          | Logitech Rumblepad 2               |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.RumblePad2_200.jpg)|
-| Gamepad          | Logitech Wingman Rumblepad         |  v1.3.0    |  YES    | Both digital and analog mode         |![WRP2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Wingman.Rumblepad_200.jpg)|
-| Gamepad          | Logitech Wireless Gamepad F710     |  v1.8.0    |  YES    | Both PC and XBOX 360 mode            |![WRP4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.Wireless.Gamepad.F710_200.jpg)|
-| Gamepad          | PS3/PC Clones                      |  v1.5.2    |  YES    | Both digital and analog mode         |![PS3CLONE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS3.Clone_200.jpg)|
-| Gamepad          | RetroLink Classic Controller USB   |  v1.8.0    |  YES    | (Sega Saturn Style)                  |![SEGASAT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.retrolink.classic_200.jpg)|
-| Joystick         | SEGA VirtuaStick High Grade        |  v1.8.0    |  YES    | PS3 mode - Stick is digital only     |![SEG1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.VirtuaStickHighGrade_200.jpg)|
-| Gamepad          | Sony PS1 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS3](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS1.PAD_200.jpg)|
-| Gamepad          | Sony PS2 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS2_200.jpg)|
-| Gamepad          | Sony PS2 original pad              |  v1.8.1    |  YES    | With DUAL USB adapter (1)            |![THFS7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS2.Dual.Adaptor.jpg)|
-| Gamepad          | Sony PS-ONE original pad           |  v1.6.0    |  YES    | With USB adapter                     |![THFS6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PSONE.PAD_200.jpg)|
-| Gamepad          | Sony Dual Shock 4 PS4 original pad |  v1.8.0    |  YES    | **WARNING !! (2)**                   |![SDS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SONY.DS4.ORIGINAL_200.jpg)|
-| Gamepad          | SNES Usb Clone                     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SNES.CLONE_200.jpg)|
-| Joystick         | Speedlink Competition PRO USB      |  v1.8.0    |  YES    |                                      |![SLNK1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SPEEDLINK_200.jpg)|
-| Gamepad          | Thrustmaster Firestorm Digital     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Firestorm_200.jpg)|
-| Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
-| Gamepad          | XBOX 360 Clone                     |  v1.6.0    |  YES    | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) 
-| Gamepad          | XBOX Elite                         |  future    |  NO     | Not HID protocol compliant           |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
- 
- (1) Plug the pad in adaptor #1 port
- 
- (2) **WARNING! If using the wired version, either remove internal battery (suggested) or be sure it is 100% charged before connecting to your Amiga**
  
 ## **DEVELOPMENT**
 
