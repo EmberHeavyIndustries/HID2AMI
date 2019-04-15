@@ -38,7 +38,7 @@ You are free to download the stl/step files linked below, and print your own cop
 #### GothDevil kindly allows free and open distribution of this excellent work; nevertheless I (EmberHEavyIndistries) would consider it fair if anyone who enjoys his effort would give him a little donation (say: 1 EUR) to thank him for sharing.
 Please send donations to GothDevil's paypal account here:
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](kathleen.belgacem@hotmail.com)|||
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](kathleen.belgacem@hotmail.com)||Thnak you GothDevil !|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
