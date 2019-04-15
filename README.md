@@ -31,7 +31,7 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
 
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]( kathleen.belgacem@hotmail.com)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto: kathleen.belgacem@hotmail.com)|
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](kathleen.belgacem@hotmail.com)|||
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
