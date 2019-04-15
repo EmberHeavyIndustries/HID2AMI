@@ -36,10 +36,10 @@ You are free to download the stl/step files linked below, and print your own cop
 [Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/bottom_cover_Final.stp)
 
 
-#### GothDevil kindly allows free and open distribution of this excellent work; nevertheless I (EmberHeavyIndustries) would consider it fair if anyone who enjoys his effort would give him a little donation (say: 1 EUR) to thank him for sharing.
+#### GothDevil kindly allows free and open distribution of this excellent work; nevertheless I (EmberHeavyIndustries) would consider it fair if anyone who enjoys his effort would give her a little donation (say: 1 EUR) to thank her for sharing.
 Please send donations to GothDevil's paypal account here:
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](kathleen.belgacem@hotmail.com)||Thnak you GothDevil !|
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https:/paypal.me/HID2AMIBOX)||Thnak you GothDevil !|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
