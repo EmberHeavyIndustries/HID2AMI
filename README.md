@@ -28,7 +28,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
-![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)![Image of BOX-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_03_50.jpg)
 
 
 [ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/top_cover_Final.stp)
