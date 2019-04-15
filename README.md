@@ -23,10 +23,17 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.3D_10.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.top_10.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.bottom_10.jpg)
 
 ## **NEW !! GothDevil's Open source shell case** 
-Thanks to the talented and friendly user **GothDevil**, each HID2AMI user can now 3D-print his own shell cases !
 
-![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)
-![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
+#### Thanks to the talented and friendly user **GothDevil**, each HID2AMI user can now 3D-print his own shell cases !
+
+You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
+
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
+
+
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]( kathleen.belgacem@hotmail.com)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto: kathleen.belgacem@hotmail.com)|
+| ------------------------------ | ---------------------------------------------- | --------------------------- |
+
 
 
 ## **HOW DOES IT WORK** (in brief):
