@@ -22,6 +22,13 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ## **REV 1.1 board** 
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.3D_10.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.top_10.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/Hid2AMI_Rev1.1.bottom_10.jpg)
 
+## **NEW !! GothDevil's Open source shell case** 
+Thanks to the talented and friendly user **GothDevil**, each HID2AMI user can now 3D-print his own shell cases !
+
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)
+![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
+
+
 ## **HOW DOES IT WORK** (in brief):
 
 HID2AMI recognizes and manages any HID device connected to its USB interface; if the device is recognized as an HID mouse, then HID2AMI starts capturing live movements and button pressings of the peripheral, then converting both of them into proper quadrature waveforms (and Amiga mouse button pressings) which can be properly understood by the Amiga itself, as if a real quadrature "Amiga" mouse was connected.
