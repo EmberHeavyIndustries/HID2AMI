@@ -31,8 +31,18 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)
 
 
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/top_cover_Final.stp)
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/bottom_cover_Final.stp)
+
+
+#### GothDevil kindly allows free and open distribution of this excellent work; nevertheless I (EmberHEavyIndistries) would consider it fair if anyone who enjoys his effort would give him a little donation (say: 1 EUR) to thank him for sharing.
+Please send donations to GothDevil's paypal account here:
+
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](kathleen.belgacem@hotmail.com)|||
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
+
+
+
 
 
 
