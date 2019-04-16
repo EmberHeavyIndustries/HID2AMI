@@ -31,9 +31,9 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_01_50.jpg)![Image of BOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_02_50.jpg)![Image of BOX-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.BOX_03_50_2.jpg)
 
 
-[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/top_cover_Final.stl)
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/top_cover_final.stl)
 
-[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/bottom_cover_Final.stl)
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/bottom_cover_final.stl)
 
 
 #### GothDevil kindly allows free and open distribution of this excellent work; nevertheless I (EmberHeavyIndustries) would consider it fair if anyone who enjoys her effort would give her a little donation (say: 1 EUR) to thank her for sharing.
