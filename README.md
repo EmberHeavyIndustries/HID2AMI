@@ -116,6 +116,7 @@ Thanks !
 | Gamepad          | Sony PS2 original pad              |  v1.6.0    |  YES    | With USB adapter                     |![THFS5](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PS2_200.jpg)|
 | Gamepad          | Sony PS2 original pad              |  v1.8.1    |  YES    | With DUAL USB adapter (1)            |![THFS7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.PS2.Dual.Adaptor.jpg)|
 | Gamepad          | Sony PS-ONE original pad           |  v1.6.0    |  YES    | With USB adapter                     |![THFS6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Sony.PSONE.PAD_200.jpg)|
+| Gamepad          | Sony Dual Shock 3 PS3 original pad |  v1.8.b    |  YES    | With USB cable                       |![SDS5](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/66.PS3.Dualshock3_200.jpg)|
 | Gamepad          | Sony Dual Shock 4 PS4 original pad |  v1.8.0    |  YES    | **WARNING !! (2)**                   |![SDS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SONY.DS4.ORIGINAL_200.jpg)|
 | Gamepad          | SNES Usb Clone                     |  v1.3.0    |  YES    | Pad is digital only                  |![THFS4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SNES.CLONE_200.jpg)|
 | Joystick         | Speedlink Competition PRO USB      |  v1.8.0    |  YES    |                                      |![SLNK1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.SPEEDLINK_200.jpg)|
@@ -146,12 +147,15 @@ Thanks !
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.8.a     |   see release notes below            |
+| HID2AMI APP          |    v1.8.b     |   see release notes below            |
+ 
+ 
+ Features of fw v1.8.b:
+  - Added support for Sony PS3 Dualshock3 PAD
  
  Features of fw v1.8.a:
   - Fixed a stupid bug which prevented 16-bit-axis mice to be correctly managed
- 
- Features of fw v1.8.9:
+  Features of fw v1.8.9:
  - Changed mousewheel behaviour: 
    - 1. Defaults to no action [hint: probably adding freemouse support in one of next updates]
    - 2. Pressing all three mouse buttons together, board enters "pointer speed setting" mode [Led stops blinking->firmly lit]
