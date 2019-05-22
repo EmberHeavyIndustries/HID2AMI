@@ -78,6 +78,7 @@ Thanks !
 |      Device      |                Model               | Min required fw ver. | Working |                Notes                 |     |
 | ---------------- | ---------------------------------  |----------- | ------- | -------------------------------------| --- |
 | Mice             | Any HID Compliant Mouse            |  v1.0.0    |  YES    | Any HID mouse                        |![MOU1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID.HP.Mouse_200.jpg)|
+| Mouse            | Labtec Optical Mouse 600           |  v1.8.4    |  YES    |                                      |![MOULA](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Labtec.Optica.Mouse.600_200.jpg)|
 | Mouse            | Logitech B100                      |  v1.0.0    |  YES    |                                      |![MOUF](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.B100_200.jpg)|
 | Mouse            | Logitech G5   Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU7](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G5_200.jpg)|
 | Mouse            | Logitech G502 Gaming Mouse         |  v1.8.6    |  YES    |                                      |![MOU6](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.G502_200.jpg)|
@@ -97,6 +98,7 @@ Thanks !
 | Mouse            | Steelseries Rival 600              |  v1.8.7    |  YES    |                                      |![MOUC](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Steelseries.Rival.600_200.jpg)|
 | Mouse            | Targus Mini Mouse                  |  v1.7.4    |  YES    | Not 100% HID protocol compliant      |![MOU4](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Targus.Mouse.Mini_200.jpg)|
 | Mouse            | Trust Wireless 18519 YVI           |  v1.8.8    |  YES    |                                      |![MOU11](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Trust.18519.Wireless_200.jpg)|
+| Mouse            | Yenkee YMS 3007                    |  v1.8.4    |  YES    |                                      |![MOULY](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Yenkee.yms.3007_200.jpg)|
 | Joystick         | Arcade Stick w/ USB encoder        |  v1.3.0    |  YES    | Stick is digital only                |![ARC1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Arcade.stick_200.jpg)|
 | Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
 | Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
