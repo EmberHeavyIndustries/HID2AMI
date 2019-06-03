@@ -8,7 +8,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ## **Some pre-assembled units available!**: If you are interested in ready-to-go pre-assembled units, there is a small production batch of boards on the run. You can ask for reservation on Amibay's thread [link](http://www.amibay.com/showthread.php?104588-HID2AMI-HID-MOUSE-AND-GAMEPAD-to-AMIGA-ADAPTOR) 
 
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mrkberr)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mrkbrr)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
