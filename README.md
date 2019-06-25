@@ -153,7 +153,7 @@ Thanks !
   
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
-| HID2AMI BOOTLOADER   |    v1.3.0     |   Enables DFU upgrade of APP         |
+| HID2AMI BOOTLOADER   |    v1.3.1     |   Enables DFU upgrade of APP         |
 | HID2AMI APP          |    v1.8.c     |   see release notes below            |
  
  
@@ -349,7 +349,7 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 ### **BOOTLOADER**
 
-Current BOOTLOADER version is 1.3.0. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
+Current BOOTLOADER version is 1.3.1. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
 
 
 ### **FLASHING INSTRUCTIONS**
