@@ -154,13 +154,15 @@ Thanks !
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.1     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.8.c     |   see release notes below            |
+| HID2AMI APP          |    v1.9.0     |   see release notes below            |
  
  
   Features of fw v1.8.c:
-  - Added support for Microsoft Classic Intellimouse 2018 
+  - Added support for HID keyboards with "WADS" mapping 
  
- Features of fw v1.8.b:
+ Features of fw v1.8.c:
+  - Added support for Microsoft Classic Intellimouse 2018 
+  Features of fw v1.8.b:
   - Added support for Sony PS3 Dualshock3 PAD
   Features of fw v1.8.a:
   - Fixed a stupid bug which prevented 16-bit-axis mice to be correctly managed
