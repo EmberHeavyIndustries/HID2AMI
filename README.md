@@ -157,7 +157,7 @@ Thanks !
 | HID2AMI APP          |    v1.9.0     |   see release notes below            |
  
  
-  Features of fw v1.8.c:
+  Features of fw v1.9.0:
   - Added support for HID keyboards with "WADS" mapping 
  
  Features of fw v1.8.c:
