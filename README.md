@@ -154,13 +154,15 @@ Thanks !
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.3.1     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.0     |   see release notes below            |
+| HID2AMI APP          |    v1.9.1     |   see release notes below            |
  
+ 
+  Features of fw v1.9.1:
+  - Added support for SEGA Mega Drive Mini USB Adapters 
  
   Features of fw v1.9.0:
   - Added support for HID keyboards with "WADS" mapping 
- 
- Features of fw v1.8.c:
+  Features of fw v1.8.c:
   - Added support for Microsoft Classic Intellimouse 2018 
   Features of fw v1.8.b:
   - Added support for Sony PS3 Dualshock3 PAD
