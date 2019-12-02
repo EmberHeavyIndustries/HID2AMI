@@ -156,7 +156,8 @@ Thanks !
   
 |      Baseline        | Current ver.  |                Features              |
 | -------------------- | ------------- | -------------------------------------|
-| HID2AMI BOOTLOADER   |    v1.3.1     |   Enables DFU upgrade of APP         |
+| HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
+| HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI APP          |    v1.9.1     |   see release notes below            |
  
  
