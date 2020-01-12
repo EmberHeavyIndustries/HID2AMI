@@ -28,7 +28,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 ## **GothDevil's Open source shell case** 
 
-#### Thanks to the talented and friendly user **GothDevil** !
+#### Thanks to the talented and friendly user **GothDevil** for creating and sharing her precious work  !
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
@@ -49,7 +49,8 @@ Please send donations to GothDevil's paypal account here:
 
 ## **Lemaru's Open source shell case** 
 
-#### Thanks to the talented and friendly user **Lemaru** !
+#### Thanks to the talented and friendly user **Lemaru** for creating and sharing his precious work  !
+!
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
