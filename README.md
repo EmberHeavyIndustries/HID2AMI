@@ -26,9 +26,9 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ## **REV 1.1 board** 
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.01.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.02.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.03.jpg)
 
-## **NEW !! GothDevil's Open source shell case** 
+## **GothDevil's Open source shell case** 
 
-#### Thanks to the talented and friendly user **GothDevil**, each HID2AMI user can now 3D-print his own shell cases !
+#### Thanks to the talented and friendly user **GothDevil** !
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
@@ -47,8 +47,18 @@ Please send donations to GothDevil's paypal account here:
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/HID2AMIBOX)||Thank you GothDevil !|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
+## **Lemaru's Open source shell case** 
+
+#### Thanks to the talented and friendly user **Lemaru** !
+
+You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
+
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.Lemaru_shell.jpg)
 
 
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Top.stl)
+
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Bottom.stl)
 
 
 
