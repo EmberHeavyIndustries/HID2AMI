@@ -57,9 +57,9 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.Lemaru_shell.jpg)
 
 
-[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Top.stl)
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI Top.stl)
 
-[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Bottom.stl)
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI Bottom.stl)
 
 
 
