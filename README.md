@@ -54,12 +54,12 @@ Please send donations to GothDevil's paypal account here:
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
-![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.Lemaru_shell.jpg)
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/77.Lemaru_shell_350.jpg)
 
 
-[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI Top.stl)
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Top.stl)
 
-[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI Bottom.stl)
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_Bottom.stl)
 
 
 
