@@ -170,12 +170,14 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.1     |   see release notes below            |
+| HID2AMI APP          |    v1.9.2     |   see release notes below            |
  
  
+ Features of fw v1.9.2:
+  - Added support for Logitech M-BT83 Wired Mouse 
+   
   Features of fw v1.9.1:
   - Added support for SEGA Mega Drive Mini USB Adapters 
- 
   Features of fw v1.9.0:
   - Added support for HID keyboards with "WADS" mapping 
   Features of fw v1.8.c:
