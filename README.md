@@ -173,20 +173,20 @@ Thanks !
 | HID2AMI APP          |    v1.9.2     |   see release notes below            |
  
  
- Features of fw v1.9.2:
+Features of fw v1.9.2:
   - Added support for Logitech M-BT83 Wired Mouse 
    
-  Features of fw v1.9.1:
+Features of fw v1.9.1:
   - Added support for SEGA Mega Drive Mini USB Adapters 
-  Features of fw v1.9.0:
+Features of fw v1.9.0:
   - Added support for HID keyboards with "WADS" mapping 
-  Features of fw v1.8.c:
+Features of fw v1.8.c:
   - Added support for Microsoft Classic Intellimouse 2018 
-  Features of fw v1.8.b:
+Features of fw v1.8.b:
   - Added support for Sony PS3 Dualshock3 PAD
-  Features of fw v1.8.a:
+Features of fw v1.8.a:
   - Fixed a stupid bug which prevented 16-bit-axis mice to be correctly managed
-  Features of fw v1.8.9:
+Features of fw v1.8.9:
  - Changed mousewheel behaviour: 
    - 1. Defaults to no action [hint: probably adding freemouse support in one of next updates]
    - 2. Pressing all three mouse buttons together, board enters "pointer speed setting" mode [Led stops blinking->firmly lit]
