@@ -178,14 +178,19 @@ Features of fw v1.9.2:
    
 Features of fw v1.9.1:
   - Added support for SEGA Mega Drive Mini USB Adapters 
+
 Features of fw v1.9.0:
   - Added support for HID keyboards with "WADS" mapping 
+
 Features of fw v1.8.c:
   - Added support for Microsoft Classic Intellimouse 2018 
+
 Features of fw v1.8.b:
   - Added support for Sony PS3 Dualshock3 PAD
+
 Features of fw v1.8.a:
   - Fixed a stupid bug which prevented 16-bit-axis mice to be correctly managed
+
 Features of fw v1.8.9:
  - Changed mousewheel behaviour: 
    - 1. Defaults to no action [hint: probably adding freemouse support in one of next updates]
