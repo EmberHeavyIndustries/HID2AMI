@@ -177,9 +177,10 @@ Features of fw v1.9.4:
  - Fixed a very stupid bug, which caused quadrature waveform emulation non behaving correctly.
         Though anybody noticed it (not even myself until now !), the fixed quadrature waveform now performs
         way smoother pointer movements. 
-Features of fw v1.9.3:
-	 - Added support for SpeedLink Competition Pro USB 2019+
-	 - Fixed a stupid bug not clearing device mapping upon disconnection (very hardly to occur, indeed)
+	
+- Features of fw v1.9.3:
+  - Added support for SpeedLink Competition Pro USB 2019+
+  - Fixed a stupid bug not clearing device mapping upon disconnection (very hardly to occur, indeed)
  
 Features of fw v1.9.2:
   - Added support for Logitech M-BT83 Wired Mouse 
