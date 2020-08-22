@@ -5,7 +5,7 @@
 Donors of at least 5 EUR will receive the latest firmware revision available at the moment of request; donors of 10 EUR or more will also be added to the "firmware beta release" channel, and will receive all intermediate beta releases and all subsequent firmware updates. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
 
 
-## ** Preassembled units **: If you are interested in ready-to-go pre-assembled units, a small number of them is available from time to time. You can look for one on Amibay's thread [link] and check if there is any available to sell (http://www.amibay.com/showthread.php?104588-HID2AMI-HID-MOUSE-AND-GAMEPAD-to-AMIGA-ADAPTOR) 
+## ** Preassembled units **: If you are interested in ready-to-go pre-assembled units, a small number of them is available from time to time. You can look for one on Amibay's thread [link] and check if there is any available on sale (http://www.amibay.com/showthread.php?104588-HID2AMI-HID-MOUSE-AND-GAMEPAD-to-AMIGA-ADAPTOR) 
 
 
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mrkbrr)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
@@ -170,8 +170,16 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.2     |   see release notes below            |
+| HID2AMI APP          |    v1.9.4     |   see release notes below            |
  
+ 
+Features of fw v1.9.4:
+ - Fixed a very stupid bug, which caused quadrature waveform emulation non behaving correctly.
+        Though anybody noticed it (not even myself until now !), the fixed quadrature waveform now performs
+        way smoother pointer movements. 
+Features of fw v1.9.3:
+	 - Added support for SpeedLink Competition Pro USB 2019+
+	 - Fixed a stupid bug not clearing device mapping upon disconnection (very hardly to occur, indeed)
  
 Features of fw v1.9.2:
   - Added support for Logitech M-BT83 Wired Mouse 
