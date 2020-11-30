@@ -173,9 +173,13 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.4     |   see release notes below            |
+| HID2AMI APP          |    v1.9.5     |   see release notes below            |
  
- 
+
+Features of fw v1.9.5:
+ - Added support for Logitech B170 / M170 wireless adapters and peripherals
+ - Added generic support for composite (multi-peripheral) Logitech devices
+	
 Features of fw v1.9.4:
  - Fixed a very stupid bug, which caused quadrature waveform emulation non behaving correctly.
         Though anybody noticed it (not even myself until now !), the fixed quadrature waveform now performs
