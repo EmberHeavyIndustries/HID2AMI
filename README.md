@@ -34,10 +34,10 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
-![Image of EBOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_00.jpg)
-![Image of EBOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_01.jpg)
-![Image of EBOX-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_02.jpg)
-![Image of EBOX-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_03.jpg)
+![Image of EBOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.HID2AMI_SHELL_EMBER_00.jpg)
+![Image of EBOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.HID2AMI_SHELL_EMBER_01.jpg)
+![Image of EBOX-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.HID2AMI_SHELL_EMBER_02.jpg)
+![Image of EBOX-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.HID2AMI_SHELL_EMBER_03.jpg)
 
 [ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.EmberHID2AMI.UpperShell_1.stl)
 
