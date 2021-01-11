@@ -26,6 +26,25 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ## **REV 1.1 board** 
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.01.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.02.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.03.jpg)
 
+
+## **Ember Heavy Industries's official Open source shell case** 
+
+#### Based upon Lemaru's shell, with some enhancements and eye-catching HID2AMI logo carved on top  !
+!
+
+You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
+
+![Image of EBOX-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_00.jpg)
+![Image of EBOX-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_01.jpg)
+![Image of EBOX-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_02.jpg)
+![Image of EBOX-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/88.HID2AMI_SHELL_EMBER_03.jpg)
+
+[ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.EmberHID2AMI.UpperShell_1.stl)
+
+[Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/88.EmberHID2AMI.LowerShell_1.stl)
+
+
+
 ## **GothDevil's Open source shell case** 
 
 #### Thanks to the talented and friendly user **GothDevil** for creating and sharing her precious work  !
