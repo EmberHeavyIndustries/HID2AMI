@@ -30,7 +30,6 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 ## **Ember Heavy Industries's official Open source shell case** 
 
 #### Based upon Lemaru's shell, with some enhancements and eye-catching HID2AMI logo carved on top  !
-!
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
