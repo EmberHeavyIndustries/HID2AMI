@@ -17,7 +17,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 **HID2AMI** is an **HID mouse to quadrature waveform converter** and **HID Gamepad adapter** for the Amiga (and C64, Atari 7600, AtariST also..) series of boards; it allows ANY modern HID mouse (not limited to PS/2-USB) and almost ANY (*) modern digital/analog Gamepad to be connected and enjoyed with our Amiga computers.
 
-(*) At the moment it has been tested against dozens of different gamepdas,  but working for each and every existing Gamepad cannot be guaranteed; nevertheless, if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
+(*) At the moment it has been tested against dozens of different gamepads,  but working for each and every existing Gamepad cannot be guaranteed; nevertheless, if you find a Pad which does not work with HID2AMI, you are encouraged to contact the author and supply him its "HID Report Descriptor" to be investigated.
 
 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
