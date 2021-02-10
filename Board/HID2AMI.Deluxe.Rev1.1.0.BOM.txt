@@ -1,4 +1,4 @@
-|Part   |   Value  |     Device       |  Package   | Rev 1.0  |
+|Part   |   Value  |     Device       |  Package   | Man./Opt.|
 |-------|--------- |------------------|------------|----------|
 |BOOT0  |   JP2E   |        JP1       |   JUMPER   |          |
 |PA9BOOT|   JP2E   |        JP2       |   JUMPER   |          |
