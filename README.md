@@ -167,7 +167,7 @@ Thanks !
 | Joystick         | Thrustmaster T-16000M              |  v1.8.0    |  YES    |                                      |![(THT16=](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/Threstmaster_T-16000M.jpg)|
 | Gamepad          | Thrustmaster Wireless dual trigger |  v1.3.0    |  YES    | Both digital and analog mode         |![THWD](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Thrustmaster.Wireless_200.jpg)|
 | Gamepad          | XBOX 360 Clone                     |  v1.6.0    |  YES    | Not HID protocol compliant           |![XBOX](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.360_200.jpg) 
-| Gamepad          | XBOX Elite                         |  future    |  YES (*) |(*) works vi 8bitdo Wireless dongle  |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
+| Gamepad          | XBOX Elite                         |  v1.8.0    |  YES (*) |(*) works via 8bitdo Wireless dongle |![XBOXE](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.XBOX.Elite_200.jpeg)
  
  (1) Plug the pad in adaptor #1 port
  
