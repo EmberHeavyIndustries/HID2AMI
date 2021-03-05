@@ -192,8 +192,15 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.5     |   see release notes below            |
+| HID2AMI APP          |    v1.9.6     |   see release notes below            |
  
+
+Features of fw v1.9.6:
+ - Added support for cursor arrow keys in keyboard driver
+ - Joypad buttons now can be mapped either B1-B2-UP-DN or B1-B2-B1-B2 (the latter by pressing LEFT direction while mapping) 
+ - Added MS Touch Wireless Mouse support
+ - Added MS BTechnology wireless adapter
+ - Fixed a custom HID mouse protocol init bug (greatly improves compatiiblity with non standard HID devices) 
 
 Features of fw v1.9.5:
  - Added support for Logitech B170 / M170 wireless adapters and peripherals
