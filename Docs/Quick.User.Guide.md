@@ -55,7 +55,8 @@ HID2AMI allows the user to freely customize the mapping of any pad's first 4 but
 - **To start and perform the mapping procedure**
   - press all together the first 4 buttons of the pad AND pull the left trigger DOWN
   - the running led stops blinking and stands firmly lit: you are in mapping mode
-  - press in sequence the buttons you want to map to Amiga1 - Amiga2 - UP - DOWN ; after each acquired mapping, the "running led" changes state (lit-unlit-lit-unlit)
+  - press in sequence the buttons if you want to map to Amiga1 - Amiga2 - UP - DOWN ; after each acquired mapping, the "running led" changes state (lit-unlit-lit-unlit)
+  - press in sequence the buttons AND keep LEFT direction pressed while pressing if you want to map to Amiga1 - Amiga2 - Amiga1 - Amiga2 
   - once the mapping of 4th button has been performed, your configuration will be automatically saved, and the "running led" will start blinking again
 
 
