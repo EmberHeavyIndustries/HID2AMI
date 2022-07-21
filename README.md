@@ -142,7 +142,7 @@ Thanks !
 | Joystick         | C64 Mini Stick                     |  v1.3.0    |  YES    | Stick is digital only                |![C641](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Joystick.C64.Mini_200.jpg)|
 | Gamepad          | Diswoe Wireless PC/Nintendo Switch |  v1.8.0    |  YES    |                                      |![(DISW=](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/Diswoe_Wireless.jpg)|
 | Gamepad          | Dual Stick China Clone             |  v1.3.0    |  YES    | Both digital and analog mode         |![CHN1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.DualStick.Chinese_200.jpg)|
-| Gamepad          | Dual Wireless PS3-USB              |  v1.8.0    |  YES    | Both digital and analog mode         |![CHN2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Dual.Wireless.PS2.jpg)|
+| Gamepad          | Dual Wireless PS3-USB or BT        |  v1.9.8    |  YES    | Both digital and analog mode  (3)    |![CHN2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Dual.Wireless.PS2.jpg)|
 | Gamepad          | Hama Whitestorm                    |  v1.3.0    |  YES    | Both digital and analog mode         |![HAM1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HAMA_200.jpg)|
 | Joystick         | HORI FightingStick Mini            |  v1.8.0    |  YES    | Both PS3 and PS4 mode                |![HFS1](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HORI.FightingStick_200.jpg)|
 | Gamepad          | Logitech PS2 Wireless              |  v1.3.0    |  YES    | Both digital and analog mode         |![WPS2](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.Logitech.PS2.Wireless_200.jpg)|
@@ -172,8 +172,8 @@ Thanks !
  (1) Plug the pad in adaptor #1 port
  
  (2) **WARNING! If using the wired version, either remove internal battery (suggested) or be sure it is 100% charged before connecting to your Amiga**
-
-
+ 
+ (3) Click d-pad (Hat) soon after connection to start auto-reconfiguration of the pad
 
  ## **HW AND SCHEMATICS**
   
@@ -192,8 +192,17 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.7     |   see release notes below            |
- 
+| HID2AMI APP          |    v1.9.8     |   see release notes below            |
+
+Features of fw v1.9.8
+ - Added support for Microsoft Wireless Mobile Mouse 4000
+ - Added support for Logitech MX Revolution Mouse
+ - Added support for Logitecg G400 Gaming Mouse
+ - Added support for Logitech G700 Laser Mouse
+ - Added support for Logitexh MX Master 3S
+ - Added support for PS3 DualShock3 BT adapter plus coded trick to detect USB o BT connection (move hat soon after connecting)
+ - Fixed deadzone values for XBOX360 pads
+
 Features of fw v1.9.7:
  - Added full mapping support for XBox360 and compatible pads
  
