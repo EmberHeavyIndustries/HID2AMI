@@ -34,7 +34,7 @@ Current firmware v2.0.0 act in the very same way of v1.x.x, with Mousewheel an C
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.01.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.02.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.03.jpg)
 
 
-## **Ember Heavy Industries's official Open source shell case** 
+## **Ember Heavy Industries's official Open source shell case (Rev 1.1 boards only)** 
 
 #### Based upon Lemaru's shell, with some enhancements and eye-catching HID2AMI logo carved on top  !
 
@@ -51,7 +51,7 @@ You are free to download the stl/step files linked below, and print your own cop
 
 
 
-## **GothDevil's Open source shell case** 
+## **GothDevil's Open source shell case (Rev 1.1 boards only)** 
 
 #### Thanks to the talented and friendly user **GothDevil** for creating and sharing her precious work  !
 
@@ -72,7 +72,7 @@ Please send donations to GothDevil's paypal account here:
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/HID2AMIBOX)||Thank you GothDevil !|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
-## **Lemaru's Open source shell case** 
+## **Lemaru's Open source shell case (Rev 1.1 boards only)** 
 
 #### Thanks to the talented and friendly user **Lemaru** for creating and sharing his precious work  !
 !
