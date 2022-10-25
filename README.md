@@ -24,7 +24,8 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 ## **REV 2.0 board** 
 
-HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols.
+HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
+
 Current firmware v2.0.0 act in the very same way of v1.x.x, with Mousewheel an CD32 support which will be added in future releases.
 
 ![Image of HID2AMI-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMIv2.jpg)!
@@ -187,9 +188,9 @@ Thanks !
 | -------------- | ------------- | ------------------------------------- |
 | HID2AMI LITE   |    v1.0.0     |   direct output to Amiga port lines   |
 | HID2AMI DeLuxe |    v1.1.0     |   output lines driven by mosfet       |
+| HID2AMI DeLuxe |    v2.0.0     |   compact size, reduced mosfets       |
   
  
-  *Two version of HID2AMI exist: Lite version (yellow) and DeLuxe version (blue/black). They are different in the way outputs to Amiga ports are buffered (DeLuxe version outputs go through mosfet buffers, for maximum compatibility with "weak" amigas).*
 
 
 ## **FIRMWARE**
@@ -390,6 +391,8 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.1.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
 
+[HID2AMI v2.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0.sch)
+
 #### **REFERENCE LAYOUTS**
 
 [Reference Layout v1.0.0 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.top.pdf)
@@ -423,6 +426,8 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 [HID2AMI v1.1.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist_2019-02-28.zip)
 
+[HID2AMI v2.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0_2021-09-24.zip)
+
 ### **EAGLE SCHEMATICS AND BOARD LAYOUT**
 
 [HID2AMI v1.0.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
@@ -432,6 +437,10 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 [HID2AMI v1.1.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
 
 [HID2AMI v1.1.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.brd)
+
+[HID2AMI v2.0.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0.sch)
+
+[HID2AMI v2.0.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0.brd)
 
 ### **BOOTLOADER**
 
