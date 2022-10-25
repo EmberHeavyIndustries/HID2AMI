@@ -23,6 +23,10 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
 
 ## **REV 2.0 board** 
+
+HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols.
+Current firmware v2.0.0 act in the very same way of v1.x.x, with Mousewheel an CD32 support which will be added in future releases.
+
 ![Image of HID2AMI-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMIv2.jpg)!
 
 ## **REV 1.1 board** 
