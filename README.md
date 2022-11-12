@@ -22,6 +22,29 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
 
+## **NEW v3.0.0 FIRMWARE WITH MOSEWHEEL SUPPORT** 
+
+Starting from v3.0.0 firmware, support for mousewheel to ANY adapter hw revision (v1.0, v1.1, V2.0) has been added.
+
+The firmware can be directly flashed on all revisions, and enables native Mousewheel support in v2.0.
+
+In order to enable Mousewheel support on v1.x revisions, a couple of little hacks must be performed on the boards.
+The hacks to be performed are: 
+- short two adiacent pins of the STM32 microprocessr, by mean of a tiny drop of solder alloy (see pic)
+- remove Q2 mosfet and shorten two of the pads (see pic)
+
+![HACK01](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/HID2AMI_MW_HACK_01small.jpg)
+![HACK02](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/HID2AMI_MW_HACK_02small.jpg)
+
+After the mod, mousewheel works in v1.x all the same way it works in v2.0.
+Though the mod is quite trivial, it need a minimal soldering experience.
+I cannot be held responsible if anybody damages his board(s) while not properly performing the mod.
+
+In order the mousewheel events to be recognized from Amiga side, a proper driver has to be installed on Amiga.
+
+The driver is freely available, and can be downloaded from the FIRMWARE folder on this github
+
+
 ## **REV 2.0 board** 
 
 HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
