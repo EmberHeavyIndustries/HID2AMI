@@ -22,7 +22,7 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
 
-## **NEW v3.0.0 FIRMWARE WITH MOSEWHEEL SUPPORT** 
+## **NEW v3.0.0 FIRMWARE WITH MOUSEWHEEL SUPPORT** 
 
 Starting from v3.0.0 firmware, support for mousewheel to ANY adapter hw revision (v1.0, v1.1, V2.0) has been added.
 
