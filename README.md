@@ -50,7 +50,7 @@ The driver is freely available, and can be downloaded from the FIRMWARE folder o
 
 HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
 
-Current firmware v2.0.0 act in the very same way of v1.x.x, with Mousewheel support (CD32 support  will be added in future releases)
+Current firmware v3.0.0 act in the very same way of v1.x.x, with Mousewheel support (CD32 support  will be added in future releases)
 
 ![Image of HID2AMI-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMIv2.jpg)!
 
@@ -223,8 +223,14 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v1.9.8     |   see release notes below            |
+| HID2AMI APP          |    v3.0.0    |   see release notes below            |
 
+
+Features of fw v3.0.0
+ - Unified firmware for all HID2Ami revisions, compatible with v1.0, v1.1, v2.0
+ - Add mousewheel support on all Amigas (V2.0)
+ - Add mousewheel support with v1.x boards + hw fix
+ 
 Features of fw v1.9.8
  - Added support for Microsoft Wireless Mobile Mouse 4000
  - Added support for Logitech MX Revolution Mouse
