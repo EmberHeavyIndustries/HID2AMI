@@ -22,6 +22,16 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
 
+
+## **REV 2.0 board** 
+
+HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
+
+Current firmware v3.0.0 act in the very same way of v1.x.x, with Mousewheel support (CD32 support  will be added in future releases)
+
+![Image of HID2AMI-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMIv2.jpg)!
+
+
 ## **NEW v3.0.0 FIRMWARE WITH MOUSEWHEEL SUPPORT** 
 
 Starting from v3.0.0 firmware, support for mousewheel to ANY adapter hw revision (v1.0, v1.1, V2.0) has been added.
@@ -44,15 +54,6 @@ In order the mousewheel events to be recognized from Amiga side, a proper driver
 
 The driver is freely available, and can be downloaded from the FIRMWARE folder on this github
 ![DRIVER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/faf72c40f998a1fadbb46edbc19f1a4def65b4c7/Firmware/Hid2Ami.lha)
-
-
-## **REV 2.0 board** 
-
-HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
-
-Current firmware v3.0.0 act in the very same way of v1.x.x, with Mousewheel support (CD32 support  will be added in future releases)
-
-![Image of HID2AMI-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMIv2.jpg)!
 
 ## **REV 1.1 board** 
 ![Image of HID2AMI-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.01.jpg)![Image of HID2AMI-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.02.jpg)![Image of HID2AMI-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/aa.03.jpg)
