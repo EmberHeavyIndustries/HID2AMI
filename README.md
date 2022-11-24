@@ -22,6 +22,12 @@ Donors of at least 5 EUR will receive the latest firmware revision available at 
 
 [HOW TO SUBMIT AN HID DUMP ](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/hid.dump.howto.md)
 
+## **ENABLING MOUSEWHEEL SUPPORT**
+
+In order the mousewheel events to be recognized from Amiga side, a proper driver has to be installed on Amiga.
+
+The driver is freely available, and can be downloaded from the FIRMWARE folder on this github
+![DRIVER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/faf72c40f998a1fadbb46edbc19f1a4def65b4c7/Firmware/Hid2Ami.lha)
 
 ## **REV 2.0 board** 
 
