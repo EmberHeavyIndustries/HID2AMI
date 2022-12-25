@@ -1,0 +1,16 @@
+Partlist exported from E:/Amiga/Schematics/HID2AMI/HID2AMI.Deluxe.Rev2.0.0.sch at 11/11/2022 2:38 PM
+
+Qty Value               Device              Package   Parts                                     Description                                                           MF        MPN    OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1                       F09HP               F09HP     X3                                        SUB-D                                                                                  unknown    unknown                         
+2                       JP2E                JP2       B0, PA9                                   JUMPER                                                                                                      34                    
+2                       LEDSML0805          SML0805   ACT, PWR                                  LED                                                                                                                               
+8   100k                R-EU_M0805          M0805     R1, R4, R5, R6, R7, R8, R9, R10           RESISTOR, European symbol                                                                                              R          
+9   100n                C-EUC0805           C0805     C1, C2, C3, C4, C5, C6, C10, VCAP1, VCAP2 CAPACITOR, European symbol                                                                                             C          
+2   10k                 R-EU_M0805          M0805     R2, R3                                    RESISTOR, European symbol                                                                                              R          
+1   10u                 C-EUC0805           C0805     C9                                        CAPACITOR, European symbol                                                                                             C          
+2   22p                 C-EUC0805           C0805     C7, C8                                    CAPACITOR, European symbol                                                                                             C          
+1   BSS138              BSS138              SOT23     Q2                                        BSS138 N-Channel Logic Level Enhancement Mode Field Effect Transistor Fairchild BSS138 9845330    67R2009                         
+1   CRYSTALS-NOGND-HC49 CRYSTALS-NOGND-HC49 HC49      X1                                        CRYSTALS CAN NOT GROUNDED                                                                                   0                     
+1   LM1117MPX-3.3       LM1117MPX-3.3       SOT223    IC1                                                                                                                                                                         
+1   PN87520-S           PN87520-S           PN87520-S X2                                                                                                                               unknown    unknown                         
+1   STM32F10XRXT6       STM32F10XRXT6       TQFP64    U1                                        STM32F101/103 64pin LQFP                                                                                                          
