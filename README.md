@@ -230,9 +230,12 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v3.0.0    |   see release notes below            |
+| HID2AMI APP          |    v3.0.1    |   see release notes below            |
 
 
+Features of fw v3.0.1
+ - Enabled management of 3rd mouse button in conjunction with MouseWheel
+ 
 Features of fw v3.0.0
  - Unified firmware for all HID2Ami revisions, compatible with v1.0, v1.1, v2.0
  - Add mousewheel support on all Amigas (V2.0)
