@@ -68,9 +68,9 @@ The driver is freely available, and can be downloaded from the FIRMWARE folder o
 
 You are free to download the stl/step files linked below, and print your own copy of this beautiful shell cover !
 
-![Image of EBOX20-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_01.jpg)
-![Image of EBOX20-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_02.jpg)
-![Image of EBOX20-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_03.jpg)
+![Image of EBOX20-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_01s.jpg)
+![Image of EBOX20-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_02s.jpg)
+![Image of EBOX20-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_03s.jpg)
 
 [ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_ShellUpper.stl)
 
