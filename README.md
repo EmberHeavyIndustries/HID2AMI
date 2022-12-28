@@ -71,6 +71,8 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of EBOX20-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_01s.jpg)
 ![Image of EBOX20-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_02s.jpg)
 ![Image of EBOX20-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_03s.jpg)
+![Image of EBOX20-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Shell_20_04s.jpg)
+(Sample 3D print by Solaris104)
 
 [ShellBox Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_ShellUpper.stl)
 
