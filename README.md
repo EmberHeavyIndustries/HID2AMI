@@ -76,9 +76,9 @@ You are free to download the stl/step files linked below, and print your own cop
 
 (Sample 3D print by Solaris104)
 
-![Image of EBOX20-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_1.jpg)
-![Image of EBOX20-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_2.jpg)
-![Image of EBOX20-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_3.jpg)
+![Image of EBOX20-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_1s.jpg)
+![Image of EBOX20-05](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_2s.jpg)
+![Image of EBOX20-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_3s.jpg)
 
 (Sample 3D print by IAmAddicted)
 
