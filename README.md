@@ -39,7 +39,7 @@ Current firmware v3.0.0 act in the very same way of v1.x.x, with Mousewheel supp
 ![Image of EBOX20-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_1s.jpg)!
 ![Image of EBOX20-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/resin_2s.jpg)!
 
-(Transparent shellcases images courtesy by IAmAddict)
+(Transparent shellcase images courtesy by IAmAddict)
 
 ## **NEW v3.0.0 FIRMWARE WITH MOUSEWHEEL SUPPORT** 
 
