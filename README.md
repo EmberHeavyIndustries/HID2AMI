@@ -90,6 +90,19 @@ You are free to download the stl/step files linked below, and print your own cop
 [Shellbox Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_ShellLower.stl)
 
 
+## **CERV's free shell case (Rev 2.x boards only)** 
+
+User Cerv kindly designed and shared his alternative box design !
+
+![Image of EBOX20-06](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI_BOX_CERV.jpg)
+
+
+[ShellBox Cover](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_CERV_cover.stl)
+
+[Shellbox Case](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AMI_CERV_box.stl)
+
+
+
 ## **Ember Heavy Industries's official Open source shell case (Rev 1.1 boards only)** 
 
 #### Based upon Lemaru's shell, with some enhancements and eye-catching HID2AMI logo carved on top  !
