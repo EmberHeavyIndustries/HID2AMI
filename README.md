@@ -270,8 +270,15 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v3.0.1    |   see release notes below            |
+| HID2AMI APP          |    v3.0.2    |   see release notes below            |
 
+
+Features of fw v3.0.2
+ - Added support for Logitech G602, G9x, G700
+ - Added support for Razer DeathAdder 2013
+ - Added support for Dell Wireless Mouse (from set KM3322W)
+ - Added support for X8 mouse speed demultiplier (1000dpi + mice)
+ - Added support for "Mad Catz" Speedlink competition pro
 
 Features of fw v3.0.1
  - Enabled management of 3rd mouse button in conjunction with MouseWheel
