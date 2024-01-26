@@ -270,9 +270,16 @@ Thanks !
 | -------------------- | ------------- | -------------------------------------|
 | HID2AMI BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
 | HID2AMI OEM BOOTLOADER   |    v1.4.0     |   Enables DFU upgrade of APP         |
-| HID2AMI APP          |    v3.0.2    |   see release notes below            |
+| HID2AMI APP          |    v3.0.4    |   see release notes below            |
 
 
+Features of fw v3.0.4
+ - Fixed an elusive bug that activated the multiplier setup mode each time the power was turned back on
+ - Fixed a bug where changing mouse pointer direction after a stop
+
+Features of fw v3.0.3
+ - Maintenance release
+   
 Features of fw v3.0.2
  - Added support for Logitech G602, G9x, G700
  - Added support for Razer DeathAdder 2013
