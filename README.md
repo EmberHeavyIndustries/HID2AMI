@@ -275,7 +275,7 @@ Thanks !
 
 Features of fw v3.0.4
  - Fixed an elusive bug that activated the multiplier setup mode each time the power was turned back on
- - Fixed a bug where changing mouse pointer direction after a stop
+ - Fixed a bug where changing mouse pointer direction after a stop. Mouse movements are now pixel perfect
 
 Features of fw v3.0.3
  - Maintenance release
