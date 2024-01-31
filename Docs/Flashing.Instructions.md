@@ -15,11 +15,13 @@ Thank you SukkoPera !
 
 #### **FLASHING THE BOOTLOADER**
 - Install the ST DFU Tool package on your Windows machine. Make sure you have the ST DFU-USB driver installed (in case something went wrong, you can manually install them from the DFU Tool's directory)
-- Set HID2AMI in DFU-BOOT mode, by selecting position 2-3 for both "BOOT0" and "PA9BOOT" jumpers
+- Set HID2AMI in DFU-BOOT mode, by selecting position 2-3 for both "BOOT0" and "PA9BOOT" jumpers (*)
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable
 - After few seconds, HID2AMI should be recognized by Windows as "ST Device in DFU Mode"
 - Launch "DfuSeDemo" App from ST Tools package. You should see a form like this one, showing your HID2AMI has booted in DFU mode and has been recognized properly 
+
+(*) in newest v2.x+ adapters the "BOOT0" jumper is replaced by an open bridge-pad. To emulate closing the 2-3 position for BOOT0, just short these pads with any conductive tip at the moment of powering up the device for flashing. 
 
 ![DFU-BOOT](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-01.Dfu.Boot.jpg)
 - Select the HID2AMIBOOTLOADER.dfu file you previosly downloaded from [here](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu) by pressing "Choose" under "Upgrade or Verify Action". 
