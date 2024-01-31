@@ -40,6 +40,8 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 
 #### **FLASHING THE HID2AMI APP**
 - Once received your personalized app file, in the form "HID2AMIAPP.XXXX.dfu", boot again HID2AMI in BOOTLOADER mode (just as above), "Choose" the app file "HID2AMIAPP.XXXX.dfu" and press "Upgrade" 
+- To boot in BOOTLOADER mode just set "PA9BOOT" jumper in position 2-3 
+
 
 ![DFU-LOADAPP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-04.HID2AMI.Dfu.App.Inject.jpg)
 - You're done ! Put the HID2AMI board in APP mode by by selecting position 1-2 for both "BOOT0" and "PA9BOOT" jumpers, **DISCONNECT you HID2AMI board from your Windows PC** and connect it to any Mouse/Joy port of your Amiga
