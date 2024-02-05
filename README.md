@@ -2,9 +2,6 @@
 
 **If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "Buying something" from money transfer frontpage).** 
 
-Donors of at least 5 EUR will receive the latest firmware revision available at the moment of request; donors of 10 EUR or more will also be added to the "firmware beta release" channel, and will receive all intermediate beta releases and all subsequent firmware updates. Donors will also be allowed to request new features and improvements (subjet to author's discretion).
-
-
 ## ** Preassembled units **: If you are interested in ready-to-go pre-assembled units, a small number of them is available from time to time, assembled by various users/hobbyists. You can look for one on Amibay's thread [link] and check if there is any available on sale (http://www.amibay.com/showthread.php?104588-HID2AMI-HID-MOUSE-AND-GAMEPAD-to-AMIGA-ADAPTOR) 
 
 
