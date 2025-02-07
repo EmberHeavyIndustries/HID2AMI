@@ -26,6 +26,17 @@ In order the mousewheel events to be recognized from Amiga side, a proper driver
 The driver is freely available, and can be downloaded from the FIRMWARE folder on this github
 ![DRIVER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/faf72c40f998a1fadbb46edbc19f1a4def65b4c7/Firmware/Hid2Ami.lha)
 
+## **REV 3.1 board** 
+
+HID2AMI Rev. 3.1 board (released in February 2025) upgrades previous versions by compacting the size and layout to the tiniest possible, plus adding the capability to switch firmware functions on the fly.
+
+Rev. 3.1.0 comes with the new fromware v4.0.0 which adds the capability to switch among AMIGA - ATARI_ST - C64 bheavior, with peculiar features for each
+All V4.x series firmwares wil be backward compatible with V2 and V1 boards
+
+
+
+
+
 ## **REV 2.0 board** 
 
 HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
