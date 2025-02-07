@@ -533,6 +533,10 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 [HID2AMI v2.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0_2021-09-24.zip)
 
+[HID2AMI v3.1.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev3.1.0.zip)
+
+
+
 ### **EAGLE SCHEMATICS AND BOARD LAYOUT**
 
 [HID2AMI v1.0.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
