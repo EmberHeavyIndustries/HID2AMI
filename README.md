@@ -33,9 +33,9 @@ HID2AMI Rev. 3.1 board (released in February 2025) upgrades previous versions by
 Rev. 3.1.0 comes with the new fromware v4.0.0 which adds the capability to switch among AMIGA - ATARI_ST - C64 bheavior, with peculiar features for each
 All V4.x series firmwares wil be backward compatible with V2 and V1 boards
 
-![Image of HID2AMIV3-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_01.jpg)!
-![Image of HID2AMIV3-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_02.jpg)!
-![Image of HID2AMIV3-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_03.jpg)!
+![Image of HID2AMIV3-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_01.jpg)
+![Image of HID2AMIV3-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_02.jpg)
+![Image of HID2AMIV3-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_03.jpg)
 
 
 ## **REV 2.0 board** 
