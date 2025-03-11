@@ -530,6 +530,7 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 [Reference BOM v2.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0_BOM.txt)
 
+[Reference BOM v3.1.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev3.1.0_BOM.csv)
 
 ### **GERBER FILES**
 
