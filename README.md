@@ -44,6 +44,17 @@ All V4.x series firmwares wil be backward compatible with V2 and V1 boards
 | C64                   |         OFF   ON    OFF           | C64 Joystick/Joypad with 2nd button                |
 
 
+## **Lemaru's shell case (Rev 3.x boards only)** 
+
+Thanks to the talented friend Lemaru, an awesome cover is available for everyone.
+
+You are free to download the stl/step files linked below, and print your own copy of this awesome shell cover !
+
+![Image of EBOX30-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_00.jpg)
+![Image of EBOX30-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_01.jpg)
+![Image of EBOX30-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_02.jpg)
+![Image of EBOX30-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_03.jpg)
+
 ## **REV 2.0 board** 
 
 HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
