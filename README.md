@@ -50,10 +50,10 @@ Thanks to the talented friend Lemaru, an awesome cover is available for everyone
 
 You are free to download the stl/step files linked below, and print your own copy of this awesome shell cover !
 
-![Image of EBOX30-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_00.jpg)
-![Image of EBOX30-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_01.jpg)
-![Image of EBOX30-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_02.jpg)
-![Image of EBOX30-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_03.jpg)
+![Image of EBOX30-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_00s.jpg)
+![Image of EBOX30-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_01s.jpg)
+![Image of EBOX30-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_02s.jpg)
+![Image of EBOX30-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_03s.jpg)
 
 ## **REV 2.0 board** 
 
