@@ -55,6 +55,11 @@ You are free to download the stl/step files linked below, and print your own cop
 ![Image of EBOX30-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_02s.jpg)
 ![Image of EBOX30-04](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_03s.jpg)
 
+[ShellBox30 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AmiV3_Base.stl)
+
+[Shellbox30 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/HID2AmiV3_Lid.stl)
+
+
 ## **REV 2.0 board** 
 
 HID2AMI Rev. 2.0 board (released in Autumn 2022) upgrades previous versions by adding capability of supporting Mousewheel and CD32 protocols, in a smaller compact shape.
