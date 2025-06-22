@@ -48,7 +48,7 @@ All V4.x series firmwares wil be backward compatible with V2 and V1 boards
 
 Thanks to the talented friend Lemaru, an awesome cover is available for everyone.
 
-You are free to download the stl/step files linked below, and print your own copy of this awesome shell cover !
+You are free to download the stl/step files linked below, and print your own copy of this awesome accessory !
 
 ![Image of EBOX30-01](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_00s.jpg)
 ![Image of EBOX30-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Sheel30_01s.jpg)
