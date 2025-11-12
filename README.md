@@ -1,11 +1,9 @@
 ![HID2AMI](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/66.HID2-AMI-Logo-Web-Show.png)
 
-**If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "Buying something" from money transfer frontpage).** 
 
 ## ** Preassembled units **: If you are interested in ready-to-go pre-assembled units, a small number of them is available from time to time, assembled by various users/hobbyists. You can look for one on Amibay's thread [link] and check if there is any available on sale (https://www.amibay.com/threads/new-hid2ami-v3-1-0-mousewheel-support-personality-switch-hid-mouse-and-gamepad-to-amiga-adaptor.2451017/) 
 
-
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/mrkbrr)||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
+|||[![Email, Contacts & Requests](https://github.com/EmberHeavyIndustries/Depot/blob/master/Pics/EmailSticker.jpg?raw=true)](mailto:EmberHEavyIndustries@gmail.com)|
 | ------------------------------ | ---------------------------------------------- | --------------------------- |
 
 
