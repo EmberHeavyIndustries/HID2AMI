@@ -316,16 +316,13 @@ Features of fw v4.0.1
 
 Features of fw v4.0.0
  - 	HRW v3.x support - full backward compatibility with v2.x and v1.x (v1.x need scrollwheel hw hack)
- - 	HRW v3.x personality mode switch AMIGA-ATARI-C64 
-
-|-------------------------------------------------|
-|                  Switch position                |
-|  0     1     2       BIT 12-11-10  CODE    MODE |
-|-------------------------------------------------|
-| OFF   OFF   OFF        1 - 1 - 1    0x07  AMIGA |
-| ON    OFF   OFF     	 1 - 1 - 0    0x06  ATARI |
-| OFF   ON    OFF        1 - 0 - 1    0x05    C64 |
-|-------------------------------------------------|
+ - 	HRW v3.x personality mode switch AMIGA-ATARI-C64
+   
+|      Personality      |  Switch position 0     1     2             | Notes                                              |
+| --------------------- | --------------------------------- |--------------------------------------------------- |
+| Amiga                 |         OFF   OFF   OFF           | Default Classic HID2AMI                            | 
+| Atari ST              |         ON    OFF   OFF           | ST Mouse and Joystick/Joypad                       |
+| C64                   |         OFF   ON    OFF           | C64 Joystick/Joypad with 2nd button                |
 
 Features of fw v3.0.5
  - 	Added flash storage for PS4 controllers mapping
