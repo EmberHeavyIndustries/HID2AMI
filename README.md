@@ -302,36 +302,36 @@ Thanks !
 | HID2AMI APP          		|    v4.0.3   	|   see release notes below            |
 
 
-Features of fw v4.0.3
- 		Added customizable keyboard mapping (SWOS edition)
- 		ixed C64 mode keyb conflict
- 		fixed Mouse scroll dwon not working in some A1200
+Features of fw v4.03
+ - Added customizable keyboard mapping (SWOS edition)
+ - Fixed C64 mode keyb conflict
+ - Fixed Mouse scroll dwon not working in some A1200
 
 Features of fw v4.0.2
- 		SWOS edition
- 		Enabled USB keyboard support
+-	SWOS edition
+-	Enabled USB keyboard support
 
 Features of fw v4.0.1
- 	Added Razer Steel Series Rival 3 Mouse support
+ - 	Added Razer Steel Series Rival 3 Mouse support
 
 Features of fw v4.0.0
-	HRW v3.x support - full backward compatibility with v2.x and v1.x (v1.x need scrollwheel hw hack)
-	HRW v3.x personality mode switch AMIGA-ATARI-C64 
- 		--------------------------------------------------|
- 		|                  Switch position                |
-  	 	|  0     1     2       BIT 12-11-10  CODE    MODE |
-	 	|-------------------------------------------------|
-  	 	| OFF   OFF   OFF        1 - 1 - 1    0x07  AMIGA |
-		| ON    OFF   OFF     	 1 - 1 - 0    0x06  ATARI |
-	    | OFF   ON    OFF        1 - 0 - 1    0x05    C64 |
-  		|-------------------------------------------------|
+ - 	HRW v3.x support - full backward compatibility with v2.x and v1.x (v1.x need scrollwheel hw hack)
+ - 	HRW v3.x personality mode switch AMIGA-ATARI-C64 
+ --------------------------------------------------|
+|                  Switch position                |
+|  0     1     2       BIT 12-11-10  CODE    MODE |
+|-------------------------------------------------|
+| OFF   OFF   OFF        1 - 1 - 1    0x07  AMIGA |
+| ON    OFF   OFF     	 1 - 1 - 0    0x06  ATARI |
+| OFF   ON    OFF        1 - 0 - 1    0x05    C64 |
+|-------------------------------------------------|
 
 Features of fw v3.0.5
-	Added flash storage for PS4 controllers mapping
-	Added Logitech VX Nano support
- 	Added Logitech G403 Hero support
-	Added Advanced Corded Mouse M500s support
-  	All Logitech wireless dongles default to mouse
+ - 	Added flash storage for PS4 controllers mapping
+ - 	Added Logitech VX Nano support
+ - 	Added Logitech G403 Hero support
+ - 	Added Advanced Corded Mouse M500s support
+ - 	All Logitech wireless dongles default to mouse
 
 Features of fw v3.0.4
  - Fixed an elusive bug that activated the multiplier setup mode each time the power was turned back on
