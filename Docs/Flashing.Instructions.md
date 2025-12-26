@@ -34,7 +34,7 @@ You should come to a condition like this
 If everything went fine, your board now can boot from the BOOTLOADER and is ready to be loaded with the HID2AMI App
 - Set HID2AMI in BOOTLOADER mode, by selectin position 1-2 for "BOOT0" and position 2-3 for "PA9BOOT". **Note: newer Rev1.1 preassembled boards do not have BOOT0 jumper installed, since it is not needed to update the App. If it is your case, simply ignore BOOT0**
 
-**Note: on newer Rev3.x+ boards simply move the switch from "R" (run) to "FW" (firmware) position**
+**Note: on newer Rev3.x+ boards simply move the switch from "RN" (run) to "F" (firmware) position**
 
 - MAKE SURE THAT HID2AMI IS NOT CONNECTED TO YOUR AMIGA MOUSE/JOY PORT
 - Connect HID2AMI to any USB port of your PC, by mean of the A-A USB Cable: the bootloader should take control, and you should see the activity led on board (lower led near usb connector) fastly blinking
@@ -51,6 +51,7 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 ![DFU-LOADAPP](https://raw.githubusercontent.com/EmberHeavyIndustries/HID2AMI/master/Pics/50-04.HID2AMI.Dfu.App.Inject.jpg)
 - You're done ! Put the HID2AMI board in APP mode by by selecting position 1-2 for both "BOOT0" and "PA9BOOT" jumpers, **DISCONNECT you HID2AMI board from your Windows PC** and connect it to any Mouse/Joy port of your Amiga
 - Enjoy !
+
 
 
 
