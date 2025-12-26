@@ -52,3 +52,4 @@ If everything went fine, your board now can boot from the BOOTLOADER and is read
 - You're done ! Put the HID2AMI board in APP mode by by selecting position 1-2 for both "BOOT0" and "PA9BOOT" jumpers, **DISCONNECT you HID2AMI board from your Windows PC** and connect it to any Mouse/Joy port of your Amiga
 - Enjoy !
 
+
