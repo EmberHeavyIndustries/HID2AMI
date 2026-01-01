@@ -305,7 +305,7 @@ Thanks !
 Features of fw v4.03
  - Added customizable keyboard mapping (SWOS edition)
  - Fixed C64 mode keyb conflict
- - Fixed Mouse scroll down not working in some A1200
+ - Fixed Mouse scroll down not working in some PiStormed A1200
 
 Features of fw v4.0.2
 -	SWOS edition
