@@ -304,6 +304,22 @@ Thanks !
 | HID2AMI APP          		|    v4.0.3   	|   see release notes below            |
 
 
+Features of fw v4.04
+ - Fixed further line driving in ODmode for "weak" C64 consoles [no more "locked last keyb row"]
+ - Added gaming numpad support [SWOS edition] 
+ - Extended keyboard decoding up to three keys at the same time [SWOS edition]
+ - Denied conflicting direction with keyb (L+R and U+D) [SWOS eidiotn - fix for Amiga orignal SWOS game's bug]
+ - Added forcing Razer DeathStalker V2 to Keyboard [SWOS edition]
+ - Added support for Shenzhen Evision Semiconductor Technology Wireless adapter for Mouse (Aliexpress)
+ - Added priority input selector for multi-device-cntrollers (default priority is Joy->Mouse->Keyboard, alternate is Keyboard->Joy->Mouse)
+
+|      Personality      |  Switch position 1     2     3             | Notes                                              |
+| --------------------- | --------------------------------- |--------------------------------------------------- |
+| Amiga                 |         OFF   OFF    X           | Default Classic HID2AMI                            | 
+| Atari ST              |         ON    OFF    X            | ST Mouse and Joystick/Joypad                       |
+| C64                   |         OFF   ON     X           | C64 Joystick/Joypad with 2nd button                |
+| CONTROLLER PRIORITY   |          X     X     OFF/ON      | J->M->K / K->J->M 	             |
+
 Features of fw v4.03
  - Added customizable keyboard mapping (SWOS edition)
  - Fixed C64 mode keyb conflict
