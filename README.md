@@ -313,12 +313,12 @@ Features of fw v4.04
  - Added support for Shenzhen Evision Semiconductor Technology Wireless adapter for Mouse (Aliexpress)
  - Added priority input selector for multi-device-cntrollers (default priority is Joy->Mouse->Keyboard, alternate is Keyboard->Joy->Mouse)
 
-|      Personality      |  Switch position 1     2     3             | Notes                                              |
+|      Personality      |  Switch position 1  |   2  |   3             | Notes                                              |
 | --------------------- | --------------------------------- |--------------------------------------------------- |
-| Amiga                 |         OFF   OFF    X           | Default Classic HID2AMI                            | 
-| Atari ST              |         ON    OFF    X            | ST Mouse and Joystick/Joypad                       |
-| C64                   |         OFF   ON     X           | C64 Joystick/Joypad with 2nd button                |
-| CONTROLLER PRIORITY   |          X     X     OFF/ON      | J->M->K / K->J->M 	             |
+| Amiga                 |         OFF |  OFF |   X           | Default Classic HID2AMI                            | 
+| Atari ST              |         ON  |  OFF |   X            | ST Mouse and Joystick/Joypad                       |
+| C64                   |         OFF |  ON  |   X           | C64 Joystick/Joypad with 2nd button                |
+| CONTROLLER PRIORITY   |          X  |   X  |   OFF/ON      | J->M->K / K->J->M 	             |
 
 Features of fw v4.03
  - Added customizable keyboard mapping (SWOS edition)
