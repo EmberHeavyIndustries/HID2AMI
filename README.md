@@ -35,11 +35,12 @@ All V4.x series firmwares will be backward compatible with V2 and V1 boards
 ![Image of HID2AMIV3-02](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_02.jpg)
 ![Image of HID2AMIV3-03](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/V3_03.jpg)
 
-|      Personality      |  Switch position 0     1     2             | Notes                                              |
-| --------------------- | --------------------------------- |--------------------------------------------------- |
-| Amiga                 |         OFF   OFF   OFF           | Default Classic HID2AMI                            | 
-| Atari ST              |         ON    OFF   OFF           | ST Mouse and Joystick/Joypad                       |
-| C64                   |         OFF   ON    OFF           | C64 Joystick/Joypad with 2nd button                |
+|      Personality      |         SW1 | SW2  | SW3          |           Notes                                    | 
+| --------------------- |      :---:  | :---:| :---:        |        ---                                         |  
+| Amiga                 |         OFF |  OFF |   X          | Default Classic HID2AMI                            | 
+| Atari ST              |         ON  |  OFF |   X          | ST Mouse and Joystick/Joypad                       |
+| C64                   |         OFF |  ON  |   X          | C64 Joystick/Joypad with 2nd button                |
+| CONTROLLER PRIORITY   |          X  |   X  |   OFF/ON     | J->M->K / K->J->M 	                             |
 
 
 ## **Lemaru's shell case (Rev 3.x boards only)** 
