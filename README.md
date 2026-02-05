@@ -315,7 +315,7 @@ Features of fw v4.04
 
 |      Personality      |  Switch position | |  | Notes                                                          |
 |                       |           1 |   2  |   3          |                                                    | 
-| --------------------- |      :---:  | :---:| :---:| ----- |                                                    |  
+| --------------------- |      :---:  | :---:| :---:        |        ---                                         |  
 | Amiga                 |         OFF |  OFF |   X          | Default Classic HID2AMI                            | 
 | Atari ST              |         ON  |  OFF |   X          | ST Mouse and Joystick/Joypad                       |
 | C64                   |         OFF |  ON  |   X          | C64 Joystick/Joypad with 2nd button                |
