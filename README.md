@@ -621,6 +621,10 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 [HID2AMI v2.0.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev2.0.0.brd)
 
+### **KICAD SCHEMATICS AND BOARD LAYOUT**
+
+[HID2AMI v3.1.0  BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/Board/HID2AMI.V3.1.KICAD.zip)
+
 ### **BOOTLOADER**
 
 Current BOOTLOADER version is 1.4.0. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
