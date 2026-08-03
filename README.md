@@ -623,7 +623,7 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 ### **KICAD SCHEMATICS AND BOARD LAYOUT**
 
-[HID2AMI v3.1.0  BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/Board/HID2AMI.V3.1.KICAD.zip)
+[HID2AMI v3.1.0  BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.V3.1.KICAD.zip)
 
 ### **BOOTLOADER**
 
